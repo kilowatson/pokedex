@@ -1,1 +1,3357 @@
-[{"name":"Bulbasaur","speciesName":"bulbasaur","officialArtwork":"1.png"},{"name":"Ivysaur","speciesName":"ivysaur","officialArtwork":"2.png"},{"name":"Venusaur","speciesName":"venusaur","officialArtwork":"3.png"},{"name":"Charmander","speciesName":"charmander","officialArtwork":"4.png"},{"name":"Charmeleon","speciesName":"charmeleon","officialArtwork":"5.png"},{"name":"Charizard","speciesName":"charizard","officialArtwork":"6.png"},{"name":"Squirtle","speciesName":"squirtle","officialArtwork":"7.png"},{"name":"Wartortle","speciesName":"wartortle","officialArtwork":"8.png"},{"name":"Blastoise","speciesName":"blastoise","officialArtwork":"9.png"},{"name":"Caterpie","speciesName":"caterpie","officialArtwork":"10.png"},{"name":"Metapod","speciesName":"metapod","officialArtwork":"11.png"},{"name":"Butterfree","speciesName":"butterfree","officialArtwork":"12.png"},{"name":"Weedle","speciesName":"weedle","officialArtwork":"13.png"},{"name":"Kakuna","speciesName":"kakuna","officialArtwork":"14.png"},{"name":"Beedrill","speciesName":"beedrill","officialArtwork":"15.png"},{"name":"Pidgey","speciesName":"pidgey","officialArtwork":"16.png"},{"name":"Pidgeotto","speciesName":"pidgeotto","officialArtwork":"17.png"},{"name":"Pidgeot","speciesName":"pidgeot","officialArtwork":"18.png"},{"name":"Rattata","speciesName":"rattata","officialArtwork":"19.png"},{"name":"Raticate","speciesName":"raticate","officialArtwork":"20.png"},{"name":"Spearow","speciesName":"spearow","officialArtwork":"21.png"},{"name":"Fearow","speciesName":"fearow","officialArtwork":"22.png"},{"name":"Ekans","speciesName":"ekans","officialArtwork":"23.png"},{"name":"Arbok","speciesName":"arbok","officialArtwork":"24.png"},{"name":"Pikachu","speciesName":"pikachu","officialArtwork":"25.png"},{"name":"Raichu","speciesName":"raichu","officialArtwork":"26.png"},{"name":"Sandshrew","speciesName":"sandshrew","officialArtwork":"27.png"},{"name":"Sandslash","speciesName":"sandslash","officialArtwork":"28.png"},{"name":"Nidoran♀","speciesName":"nidoran-f","officialArtwork":"29.png"},{"name":"Nidorina","speciesName":"nidorina","officialArtwork":"30.png"},{"name":"Nidoqueen","speciesName":"nidoqueen","officialArtwork":"31.png"},{"name":"Nidoran♂","speciesName":"nidoran-m","officialArtwork":"32.png"},{"name":"Nidorino","speciesName":"nidorino","officialArtwork":"33.png"},{"name":"Nidoking","speciesName":"nidoking","officialArtwork":"34.png"},{"name":"Clefairy","speciesName":"clefairy","officialArtwork":"35.png"},{"name":"Clefable","speciesName":"clefable","officialArtwork":"36.png"},{"name":"Vulpix","speciesName":"vulpix","officialArtwork":"37.png"},{"name":"Ninetales","speciesName":"ninetales","officialArtwork":"38.png"},{"name":"Jigglypuff","speciesName":"jigglypuff","officialArtwork":"39.png"},{"name":"Wigglytuff","speciesName":"wigglytuff","officialArtwork":"40.png"},{"name":"Zubat","speciesName":"zubat","officialArtwork":"41.png"},{"name":"Golbat","speciesName":"golbat","officialArtwork":"42.png"},{"name":"Oddish","speciesName":"oddish","officialArtwork":"43.png"},{"name":"Gloom","speciesName":"gloom","officialArtwork":"44.png"},{"name":"Vileplume","speciesName":"vileplume","officialArtwork":"45.png"},{"name":"Paras","speciesName":"paras","officialArtwork":"46.png"},{"name":"Parasect","speciesName":"parasect","officialArtwork":"47.png"},{"name":"Venonat","speciesName":"venonat","officialArtwork":"48.png"},{"name":"Venomoth","speciesName":"venomoth","officialArtwork":"49.png"},{"name":"Diglett","speciesName":"diglett","officialArtwork":"50.png"},{"name":"Dugtrio","speciesName":"dugtrio","officialArtwork":"51.png"},{"name":"Meowth","speciesName":"meowth","officialArtwork":"52.png"},{"name":"Persian","speciesName":"persian","officialArtwork":"53.png"},{"name":"Psyduck","speciesName":"psyduck","officialArtwork":"54.png"},{"name":"Golduck","speciesName":"golduck","officialArtwork":"55.png"},{"name":"Mankey","speciesName":"mankey","officialArtwork":"56.png"},{"name":"Primeape","speciesName":"primeape","officialArtwork":"57.png"},{"name":"Growlithe","speciesName":"growlithe","officialArtwork":"58.png"},{"name":"Arcanine","speciesName":"arcanine","officialArtwork":"59.png"},{"name":"Poliwag","speciesName":"poliwag","officialArtwork":"60.png"},{"name":"Poliwhirl","speciesName":"poliwhirl","officialArtwork":"61.png"},{"name":"Poliwrath","speciesName":"poliwrath","officialArtwork":"62.png"},{"name":"Abra","speciesName":"abra","officialArtwork":"63.png"},{"name":"Kadabra","speciesName":"kadabra","officialArtwork":"64.png"},{"name":"Alakazam","speciesName":"alakazam","officialArtwork":"65.png"},{"name":"Machop","speciesName":"machop","officialArtwork":"66.png"},{"name":"Machoke","speciesName":"machoke","officialArtwork":"67.png"},{"name":"Machamp","speciesName":"machamp","officialArtwork":"68.png"},{"name":"Bellsprout","speciesName":"bellsprout","officialArtwork":"69.png"},{"name":"Weepinbell","speciesName":"weepinbell","officialArtwork":"70.png"},{"name":"Victreebel","speciesName":"victreebel","officialArtwork":"71.png"},{"name":"Tentacool","speciesName":"tentacool","officialArtwork":"72.png"},{"name":"Tentacruel","speciesName":"tentacruel","officialArtwork":"73.png"},{"name":"Geodude","speciesName":"geodude","officialArtwork":"74.png"},{"name":"Graveler","speciesName":"graveler","officialArtwork":"75.png"},{"name":"Golem","speciesName":"golem","officialArtwork":"76.png"},{"name":"Ponyta","speciesName":"ponyta","officialArtwork":"77.png"},{"name":"Rapidash","speciesName":"rapidash","officialArtwork":"78.png"},{"name":"Slowpoke","speciesName":"slowpoke","officialArtwork":"79.png"},{"name":"Slowbro","speciesName":"slowbro","officialArtwork":"80.png"},{"name":"Magnemite","speciesName":"magnemite","officialArtwork":"81.png"},{"name":"Magneton","speciesName":"magneton","officialArtwork":"82.png"},{"name":"Farfetch’d","speciesName":"farfetchd","officialArtwork":"83.png"},{"name":"Doduo","speciesName":"doduo","officialArtwork":"84.png"},{"name":"Dodrio","speciesName":"dodrio","officialArtwork":"85.png"},{"name":"Seel","speciesName":"seel","officialArtwork":"86.png"},{"name":"Dewgong","speciesName":"dewgong","officialArtwork":"87.png"},{"name":"Grimer","speciesName":"grimer","officialArtwork":"88.png"},{"name":"Muk","speciesName":"muk","officialArtwork":"89.png"},{"name":"Shellder","speciesName":"shellder","officialArtwork":"90.png"},{"name":"Cloyster","speciesName":"cloyster","officialArtwork":"91.png"},{"name":"Gastly","speciesName":"gastly","officialArtwork":"92.png"},{"name":"Haunter","speciesName":"haunter","officialArtwork":"93.png"},{"name":"Gengar","speciesName":"gengar","officialArtwork":"94.png"},{"name":"Onix","speciesName":"onix","officialArtwork":"95.png"},{"name":"Drowzee","speciesName":"drowzee","officialArtwork":"96.png"},{"name":"Hypno","speciesName":"hypno","officialArtwork":"97.png"},{"name":"Krabby","speciesName":"krabby","officialArtwork":"98.png"},{"name":"Kingler","speciesName":"kingler","officialArtwork":"99.png"},{"name":"Voltorb","speciesName":"voltorb","officialArtwork":"100.png"},{"name":"Electrode","speciesName":"electrode","officialArtwork":"101.png"},{"name":"Exeggcute","speciesName":"exeggcute","officialArtwork":"102.png"},{"name":"Exeggutor","speciesName":"exeggutor","officialArtwork":"103.png"},{"name":"Cubone","speciesName":"cubone","officialArtwork":"104.png"},{"name":"Marowak","speciesName":"marowak","officialArtwork":"105.png"},{"name":"Hitmonlee","speciesName":"hitmonlee","officialArtwork":"106.png"},{"name":"Hitmonchan","speciesName":"hitmonchan","officialArtwork":"107.png"},{"name":"Lickitung","speciesName":"lickitung","officialArtwork":"108.png"},{"name":"Koffing","speciesName":"koffing","officialArtwork":"109.png"},{"name":"Weezing","speciesName":"weezing","officialArtwork":"110.png"},{"name":"Rhyhorn","speciesName":"rhyhorn","officialArtwork":"111.png"},{"name":"Rhydon","speciesName":"rhydon","officialArtwork":"112.png"},{"name":"Chansey","speciesName":"chansey","officialArtwork":"113.png"},{"name":"Tangela","speciesName":"tangela","officialArtwork":"114.png"},{"name":"Kangaskhan","speciesName":"kangaskhan","officialArtwork":"115.png"},{"name":"Horsea","speciesName":"horsea","officialArtwork":"116.png"},{"name":"Seadra","speciesName":"seadra","officialArtwork":"117.png"},{"name":"Goldeen","speciesName":"goldeen","officialArtwork":"118.png"},{"name":"Seaking","speciesName":"seaking","officialArtwork":"119.png"},{"name":"Staryu","speciesName":"staryu","officialArtwork":"120.png"},{"name":"Starmie","speciesName":"starmie","officialArtwork":"121.png"},{"name":"Mr. Mime","speciesName":"mr-mime","officialArtwork":"122.png"},{"name":"Scyther","speciesName":"scyther","officialArtwork":"123.png"},{"name":"Jynx","speciesName":"jynx","officialArtwork":"124.png"},{"name":"Electabuzz","speciesName":"electabuzz","officialArtwork":"125.png"},{"name":"Magmar","speciesName":"magmar","officialArtwork":"126.png"},{"name":"Pinsir","speciesName":"pinsir","officialArtwork":"127.png"},{"name":"Tauros","speciesName":"tauros","officialArtwork":"128.png"},{"name":"Magikarp","speciesName":"magikarp","officialArtwork":"129.png"},{"name":"Gyarados","speciesName":"gyarados","officialArtwork":"130.png"},{"name":"Lapras","speciesName":"lapras","officialArtwork":"131.png"},{"name":"Ditto","speciesName":"ditto","officialArtwork":"132.png"},{"name":"Eevee","speciesName":"eevee","officialArtwork":"133.png"},{"name":"Vaporeon","speciesName":"vaporeon","officialArtwork":"134.png"},{"name":"Jolteon","speciesName":"jolteon","officialArtwork":"135.png"},{"name":"Flareon","speciesName":"flareon","officialArtwork":"136.png"},{"name":"Porygon","speciesName":"porygon","officialArtwork":"137.png"},{"name":"Omanyte","speciesName":"omanyte","officialArtwork":"138.png"},{"name":"Omastar","speciesName":"omastar","officialArtwork":"139.png"},{"name":"Kabuto","speciesName":"kabuto","officialArtwork":"140.png"},{"name":"Kabutops","speciesName":"kabutops","officialArtwork":"141.png"},{"name":"Aerodactyl","speciesName":"aerodactyl","officialArtwork":"142.png"},{"name":"Snorlax","speciesName":"snorlax","officialArtwork":"143.png"},{"name":"Articuno","speciesName":"articuno","officialArtwork":"144.png"},{"name":"Zapdos","speciesName":"zapdos","officialArtwork":"145.png"},{"name":"Moltres","speciesName":"moltres","officialArtwork":"146.png"},{"name":"Dratini","speciesName":"dratini","officialArtwork":"147.png"},{"name":"Dragonair","speciesName":"dragonair","officialArtwork":"148.png"},{"name":"Dragonite","speciesName":"dragonite","officialArtwork":"149.png"},{"name":"Mewtwo","speciesName":"mewtwo","officialArtwork":"150.png"},{"name":"Mew","speciesName":"mew","officialArtwork":"151.png"},{"name":"Chikorita","speciesName":"chikorita","officialArtwork":"152.png"},{"name":"Bayleef","speciesName":"bayleef","officialArtwork":"153.png"},{"name":"Meganium","speciesName":"meganium","officialArtwork":"154.png"},{"name":"Cyndaquil","speciesName":"cyndaquil","officialArtwork":"155.png"},{"name":"Quilava","speciesName":"quilava","officialArtwork":"156.png"},{"name":"Typhlosion","speciesName":"typhlosion","officialArtwork":"157.png"},{"name":"Totodile","speciesName":"totodile","officialArtwork":"158.png"},{"name":"Croconaw","speciesName":"croconaw","officialArtwork":"159.png"},{"name":"Feraligatr","speciesName":"feraligatr","officialArtwork":"160.png"},{"name":"Sentret","speciesName":"sentret","officialArtwork":"161.png"},{"name":"Furret","speciesName":"furret","officialArtwork":"162.png"},{"name":"Hoothoot","speciesName":"hoothoot","officialArtwork":"163.png"},{"name":"Noctowl","speciesName":"noctowl","officialArtwork":"164.png"},{"name":"Ledyba","speciesName":"ledyba","officialArtwork":"165.png"},{"name":"Ledian","speciesName":"ledian","officialArtwork":"166.png"},{"name":"Spinarak","speciesName":"spinarak","officialArtwork":"167.png"},{"name":"Ariados","speciesName":"ariados","officialArtwork":"168.png"},{"name":"Crobat","speciesName":"crobat","officialArtwork":"169.png"},{"name":"Chinchou","speciesName":"chinchou","officialArtwork":"170.png"},{"name":"Lanturn","speciesName":"lanturn","officialArtwork":"171.png"},{"name":"Pichu","speciesName":"pichu","officialArtwork":"172.png"},{"name":"Cleffa","speciesName":"cleffa","officialArtwork":"173.png"},{"name":"Igglybuff","speciesName":"igglybuff","officialArtwork":"174.png"},{"name":"Togepi","speciesName":"togepi","officialArtwork":"175.png"},{"name":"Togetic","speciesName":"togetic","officialArtwork":"176.png"},{"name":"Natu","speciesName":"natu","officialArtwork":"177.png"},{"name":"Xatu","speciesName":"xatu","officialArtwork":"178.png"},{"name":"Mareep","speciesName":"mareep","officialArtwork":"179.png"},{"name":"Flaaffy","speciesName":"flaaffy","officialArtwork":"180.png"},{"name":"Ampharos","speciesName":"ampharos","officialArtwork":"181.png"},{"name":"Bellossom","speciesName":"bellossom","officialArtwork":"182.png"},{"name":"Marill","speciesName":"marill","officialArtwork":"183.png"},{"name":"Azumarill","speciesName":"azumarill","officialArtwork":"184.png"},{"name":"Sudowoodo","speciesName":"sudowoodo","officialArtwork":"185.png"},{"name":"Politoed","speciesName":"politoed","officialArtwork":"186.png"},{"name":"Hoppip","speciesName":"hoppip","officialArtwork":"187.png"},{"name":"Skiploom","speciesName":"skiploom","officialArtwork":"188.png"},{"name":"Jumpluff","speciesName":"jumpluff","officialArtwork":"189.png"},{"name":"Aipom","speciesName":"aipom","officialArtwork":"190.png"},{"name":"Sunkern","speciesName":"sunkern","officialArtwork":"191.png"},{"name":"Sunflora","speciesName":"sunflora","officialArtwork":"192.png"},{"name":"Yanma","speciesName":"yanma","officialArtwork":"193.png"},{"name":"Wooper","speciesName":"wooper","officialArtwork":"194.png"},{"name":"Quagsire","speciesName":"quagsire","officialArtwork":"195.png"},{"name":"Espeon","speciesName":"espeon","officialArtwork":"196.png"},{"name":"Umbreon","speciesName":"umbreon","officialArtwork":"197.png"},{"name":"Murkrow","speciesName":"murkrow","officialArtwork":"198.png"},{"name":"Slowking","speciesName":"slowking","officialArtwork":"199.png"},{"name":"Misdreavus","speciesName":"misdreavus","officialArtwork":"200.png"},{"name":"Unown","speciesName":"unown","officialArtwork":"201.png"},{"name":"Wobbuffet","speciesName":"wobbuffet","officialArtwork":"202.png"},{"name":"Girafarig","speciesName":"girafarig","officialArtwork":"203.png"},{"name":"Pineco","speciesName":"pineco","officialArtwork":"204.png"},{"name":"Forretress","speciesName":"forretress","officialArtwork":"205.png"},{"name":"Dunsparce","speciesName":"dunsparce","officialArtwork":"206.png"},{"name":"Gligar","speciesName":"gligar","officialArtwork":"207.png"},{"name":"Steelix","speciesName":"steelix","officialArtwork":"208.png"},{"name":"Snubbull","speciesName":"snubbull","officialArtwork":"209.png"},{"name":"Granbull","speciesName":"granbull","officialArtwork":"210.png"},{"name":"Qwilfish","speciesName":"qwilfish","officialArtwork":"211.png"},{"name":"Scizor","speciesName":"scizor","officialArtwork":"212.png"},{"name":"Shuckle","speciesName":"shuckle","officialArtwork":"213.png"},{"name":"Heracross","speciesName":"heracross","officialArtwork":"214.png"},{"name":"Sneasel","speciesName":"sneasel","officialArtwork":"215.png"},{"name":"Teddiursa","speciesName":"teddiursa","officialArtwork":"216.png"},{"name":"Ursaring","speciesName":"ursaring","officialArtwork":"217.png"},{"name":"Slugma","speciesName":"slugma","officialArtwork":"218.png"},{"name":"Magcargo","speciesName":"magcargo","officialArtwork":"219.png"},{"name":"Swinub","speciesName":"swinub","officialArtwork":"220.png"},{"name":"Piloswine","speciesName":"piloswine","officialArtwork":"221.png"},{"name":"Corsola","speciesName":"corsola","officialArtwork":"222.png"},{"name":"Remoraid","speciesName":"remoraid","officialArtwork":"223.png"},{"name":"Octillery","speciesName":"octillery","officialArtwork":"224.png"},{"name":"Delibird","speciesName":"delibird","officialArtwork":"225.png"},{"name":"Mantine","speciesName":"mantine","officialArtwork":"226.png"},{"name":"Skarmory","speciesName":"skarmory","officialArtwork":"227.png"},{"name":"Houndour","speciesName":"houndour","officialArtwork":"228.png"},{"name":"Houndoom","speciesName":"houndoom","officialArtwork":"229.png"},{"name":"Kingdra","speciesName":"kingdra","officialArtwork":"230.png"},{"name":"Phanpy","speciesName":"phanpy","officialArtwork":"231.png"},{"name":"Donphan","speciesName":"donphan","officialArtwork":"232.png"},{"name":"Porygon2","speciesName":"porygon2","officialArtwork":"233.png"},{"name":"Stantler","speciesName":"stantler","officialArtwork":"234.png"},{"name":"Smeargle","speciesName":"smeargle","officialArtwork":"235.png"},{"name":"Tyrogue","speciesName":"tyrogue","officialArtwork":"236.png"},{"name":"Hitmontop","speciesName":"hitmontop","officialArtwork":"237.png"},{"name":"Smoochum","speciesName":"smoochum","officialArtwork":"238.png"},{"name":"Elekid","speciesName":"elekid","officialArtwork":"239.png"},{"name":"Magby","speciesName":"magby","officialArtwork":"240.png"},{"name":"Miltank","speciesName":"miltank","officialArtwork":"241.png"},{"name":"Blissey","speciesName":"blissey","officialArtwork":"242.png"},{"name":"Raikou","speciesName":"raikou","officialArtwork":"243.png"},{"name":"Entei","speciesName":"entei","officialArtwork":"244.png"},{"name":"Suicune","speciesName":"suicune","officialArtwork":"245.png"},{"name":"Larvitar","speciesName":"larvitar","officialArtwork":"246.png"},{"name":"Pupitar","speciesName":"pupitar","officialArtwork":"247.png"},{"name":"Tyranitar","speciesName":"tyranitar","officialArtwork":"248.png"},{"name":"Lugia","speciesName":"lugia","officialArtwork":"249.png"},{"name":"Ho-Oh","speciesName":"ho-oh","officialArtwork":"250.png"},{"name":"Celebi","speciesName":"celebi","officialArtwork":"251.png"},{"name":"Treecko","speciesName":"treecko","officialArtwork":"252.png"},{"name":"Grovyle","speciesName":"grovyle","officialArtwork":"253.png"},{"name":"Sceptile","speciesName":"sceptile","officialArtwork":"254.png"},{"name":"Torchic","speciesName":"torchic","officialArtwork":"255.png"},{"name":"Combusken","speciesName":"combusken","officialArtwork":"256.png"},{"name":"Blaziken","speciesName":"blaziken","officialArtwork":"257.png"},{"name":"Mudkip","speciesName":"mudkip","officialArtwork":"258.png"},{"name":"Marshtomp","speciesName":"marshtomp","officialArtwork":"259.png"},{"name":"Swampert","speciesName":"swampert","officialArtwork":"260.png"},{"name":"Poochyena","speciesName":"poochyena","officialArtwork":"261.png"},{"name":"Mightyena","speciesName":"mightyena","officialArtwork":"262.png"},{"name":"Zigzagoon","speciesName":"zigzagoon","officialArtwork":"263.png"},{"name":"Linoone","speciesName":"linoone","officialArtwork":"264.png"},{"name":"Wurmple","speciesName":"wurmple","officialArtwork":"265.png"},{"name":"Silcoon","speciesName":"silcoon","officialArtwork":"266.png"},{"name":"Beautifly","speciesName":"beautifly","officialArtwork":"267.png"},{"name":"Cascoon","speciesName":"cascoon","officialArtwork":"268.png"},{"name":"Dustox","speciesName":"dustox","officialArtwork":"269.png"},{"name":"Lotad","speciesName":"lotad","officialArtwork":"270.png"},{"name":"Lombre","speciesName":"lombre","officialArtwork":"271.png"},{"name":"Ludicolo","speciesName":"ludicolo","officialArtwork":"272.png"},{"name":"Seedot","speciesName":"seedot","officialArtwork":"273.png"},{"name":"Nuzleaf","speciesName":"nuzleaf","officialArtwork":"274.png"},{"name":"Shiftry","speciesName":"shiftry","officialArtwork":"275.png"},{"name":"Taillow","speciesName":"taillow","officialArtwork":"276.png"},{"name":"Swellow","speciesName":"swellow","officialArtwork":"277.png"},{"name":"Wingull","speciesName":"wingull","officialArtwork":"278.png"},{"name":"Pelipper","speciesName":"pelipper","officialArtwork":"279.png"},{"name":"Ralts","speciesName":"ralts","officialArtwork":"280.png"},{"name":"Kirlia","speciesName":"kirlia","officialArtwork":"281.png"},{"name":"Gardevoir","speciesName":"gardevoir","officialArtwork":"282.png"},{"name":"Surskit","speciesName":"surskit","officialArtwork":"283.png"},{"name":"Masquerain","speciesName":"masquerain","officialArtwork":"284.png"},{"name":"Shroomish","speciesName":"shroomish","officialArtwork":"285.png"},{"name":"Breloom","speciesName":"breloom","officialArtwork":"286.png"},{"name":"Slakoth","speciesName":"slakoth","officialArtwork":"287.png"},{"name":"Vigoroth","speciesName":"vigoroth","officialArtwork":"288.png"},{"name":"Slaking","speciesName":"slaking","officialArtwork":"289.png"},{"name":"Nincada","speciesName":"nincada","officialArtwork":"290.png"},{"name":"Ninjask","speciesName":"ninjask","officialArtwork":"291.png"},{"name":"Shedinja","speciesName":"shedinja","officialArtwork":"292.png"},{"name":"Whismur","speciesName":"whismur","officialArtwork":"293.png"},{"name":"Loudred","speciesName":"loudred","officialArtwork":"294.png"},{"name":"Exploud","speciesName":"exploud","officialArtwork":"295.png"},{"name":"Makuhita","speciesName":"makuhita","officialArtwork":"296.png"},{"name":"Hariyama","speciesName":"hariyama","officialArtwork":"297.png"},{"name":"Azurill","speciesName":"azurill","officialArtwork":"298.png"},{"name":"Nosepass","speciesName":"nosepass","officialArtwork":"299.png"},{"name":"Skitty","speciesName":"skitty","officialArtwork":"300.png"},{"name":"Delcatty","speciesName":"delcatty","officialArtwork":"301.png"},{"name":"Sableye","speciesName":"sableye","officialArtwork":"302.png"},{"name":"Mawile","speciesName":"mawile","officialArtwork":"303.png"},{"name":"Aron","speciesName":"aron","officialArtwork":"304.png"},{"name":"Lairon","speciesName":"lairon","officialArtwork":"305.png"},{"name":"Aggron","speciesName":"aggron","officialArtwork":"306.png"},{"name":"Meditite","speciesName":"meditite","officialArtwork":"307.png"},{"name":"Medicham","speciesName":"medicham","officialArtwork":"308.png"},{"name":"Electrike","speciesName":"electrike","officialArtwork":"309.png"},{"name":"Manectric","speciesName":"manectric","officialArtwork":"310.png"},{"name":"Plusle","speciesName":"plusle","officialArtwork":"311.png"},{"name":"Minun","speciesName":"minun","officialArtwork":"312.png"},{"name":"Volbeat","speciesName":"volbeat","officialArtwork":"313.png"},{"name":"Illumise","speciesName":"illumise","officialArtwork":"314.png"},{"name":"Roselia","speciesName":"roselia","officialArtwork":"315.png"},{"name":"Gulpin","speciesName":"gulpin","officialArtwork":"316.png"},{"name":"Swalot","speciesName":"swalot","officialArtwork":"317.png"},{"name":"Carvanha","speciesName":"carvanha","officialArtwork":"318.png"},{"name":"Sharpedo","speciesName":"sharpedo","officialArtwork":"319.png"},{"name":"Wailmer","speciesName":"wailmer","officialArtwork":"320.png"},{"name":"Wailord","speciesName":"wailord","officialArtwork":"321.png"},{"name":"Numel","speciesName":"numel","officialArtwork":"322.png"},{"name":"Camerupt","speciesName":"camerupt","officialArtwork":"323.png"},{"name":"Torkoal","speciesName":"torkoal","officialArtwork":"324.png"},{"name":"Spoink","speciesName":"spoink","officialArtwork":"325.png"},{"name":"Grumpig","speciesName":"grumpig","officialArtwork":"326.png"},{"name":"Spinda","speciesName":"spinda","officialArtwork":"327.png"},{"name":"Trapinch","speciesName":"trapinch","officialArtwork":"328.png"},{"name":"Vibrava","speciesName":"vibrava","officialArtwork":"329.png"},{"name":"Flygon","speciesName":"flygon","officialArtwork":"330.png"},{"name":"Cacnea","speciesName":"cacnea","officialArtwork":"331.png"},{"name":"Cacturne","speciesName":"cacturne","officialArtwork":"332.png"},{"name":"Swablu","speciesName":"swablu","officialArtwork":"333.png"},{"name":"Altaria","speciesName":"altaria","officialArtwork":"334.png"},{"name":"Zangoose","speciesName":"zangoose","officialArtwork":"335.png"},{"name":"Seviper","speciesName":"seviper","officialArtwork":"336.png"},{"name":"Lunatone","speciesName":"lunatone","officialArtwork":"337.png"},{"name":"Solrock","speciesName":"solrock","officialArtwork":"338.png"},{"name":"Barboach","speciesName":"barboach","officialArtwork":"339.png"},{"name":"Whiscash","speciesName":"whiscash","officialArtwork":"340.png"},{"name":"Corphish","speciesName":"corphish","officialArtwork":"341.png"},{"name":"Crawdaunt","speciesName":"crawdaunt","officialArtwork":"342.png"},{"name":"Baltoy","speciesName":"baltoy","officialArtwork":"343.png"},{"name":"Claydol","speciesName":"claydol","officialArtwork":"344.png"},{"name":"Lileep","speciesName":"lileep","officialArtwork":"345.png"},{"name":"Cradily","speciesName":"cradily","officialArtwork":"346.png"},{"name":"Anorith","speciesName":"anorith","officialArtwork":"347.png"},{"name":"Armaldo","speciesName":"armaldo","officialArtwork":"348.png"},{"name":"Feebas","speciesName":"feebas","officialArtwork":"349.png"},{"name":"Milotic","speciesName":"milotic","officialArtwork":"350.png"},{"name":"Castform","speciesName":"castform","officialArtwork":"351.png"},{"name":"Kecleon","speciesName":"kecleon","officialArtwork":"352.png"},{"name":"Shuppet","speciesName":"shuppet","officialArtwork":"353.png"},{"name":"Banette","speciesName":"banette","officialArtwork":"354.png"},{"name":"Duskull","speciesName":"duskull","officialArtwork":"355.png"},{"name":"Dusclops","speciesName":"dusclops","officialArtwork":"356.png"},{"name":"Tropius","speciesName":"tropius","officialArtwork":"357.png"},{"name":"Chimecho","speciesName":"chimecho","officialArtwork":"358.png"},{"name":"Absol","speciesName":"absol","officialArtwork":"359.png"},{"name":"Wynaut","speciesName":"wynaut","officialArtwork":"360.png"},{"name":"Snorunt","speciesName":"snorunt","officialArtwork":"361.png"},{"name":"Glalie","speciesName":"glalie","officialArtwork":"362.png"},{"name":"Spheal","speciesName":"spheal","officialArtwork":"363.png"},{"name":"Sealeo","speciesName":"sealeo","officialArtwork":"364.png"},{"name":"Walrein","speciesName":"walrein","officialArtwork":"365.png"},{"name":"Clamperl","speciesName":"clamperl","officialArtwork":"366.png"},{"name":"Huntail","speciesName":"huntail","officialArtwork":"367.png"},{"name":"Gorebyss","speciesName":"gorebyss","officialArtwork":"368.png"},{"name":"Relicanth","speciesName":"relicanth","officialArtwork":"369.png"},{"name":"Luvdisc","speciesName":"luvdisc","officialArtwork":"370.png"},{"name":"Bagon","speciesName":"bagon","officialArtwork":"371.png"},{"name":"Shelgon","speciesName":"shelgon","officialArtwork":"372.png"},{"name":"Salamence","speciesName":"salamence","officialArtwork":"373.png"},{"name":"Beldum","speciesName":"beldum","officialArtwork":"374.png"},{"name":"Metang","speciesName":"metang","officialArtwork":"375.png"},{"name":"Metagross","speciesName":"metagross","officialArtwork":"376.png"},{"name":"Regirock","speciesName":"regirock","officialArtwork":"377.png"},{"name":"Regice","speciesName":"regice","officialArtwork":"378.png"},{"name":"Registeel","speciesName":"registeel","officialArtwork":"379.png"},{"name":"Latias","speciesName":"latias","officialArtwork":"380.png"},{"name":"Latios","speciesName":"latios","officialArtwork":"381.png"},{"name":"Kyogre","speciesName":"kyogre","officialArtwork":"382.png"},{"name":"Groudon","speciesName":"groudon","officialArtwork":"383.png"},{"name":"Rayquaza","speciesName":"rayquaza","officialArtwork":"384.png"},{"name":"Jirachi","speciesName":"jirachi","officialArtwork":"385.png"},{"name":"Deoxys","speciesName":"deoxys-normal","officialArtwork":"386.png"},{"name":"Castform(Sunny Form)","speciesName":"castform-sunny","officialArtwork":"10013.png"},{"name":"Castform(Rainy Form)","speciesName":"castform-rainy","officialArtwork":"10014.png"},{"name":"Castform(Snowy Form)","speciesName":"castform-snowy","officialArtwork":"10015.png"},{"name":"Deoxys(Attack Forme)","speciesName":"deoxys-attack","officialArtwork":"10001.png"},{"name":"Deoxys(Defense Forme)","speciesName":"deoxys-defense","officialArtwork":"10002.png"},{"name":"Deoxys(Speed Forme)\r","speciesName":"deoxys-speed","officialArtwork":"10003.png"},{"name":"Turtwig","speciesName":"turtwig","officialArtwork":"387.png"},{"name":"Grotle","speciesName":"grotle","officialArtwork":"388.png"},{"name":"Torterra","speciesName":"torterra","officialArtwork":"389.png"},{"name":"Chimchar","speciesName":"chimchar","officialArtwork":"390.png"},{"name":"Monferno","speciesName":"monferno","officialArtwork":"391.png"},{"name":"Infernape","speciesName":"infernape","officialArtwork":"392.png"},{"name":"Piplup","speciesName":"piplup","officialArtwork":"393.png"},{"name":"Prinplup","speciesName":"prinplup","officialArtwork":"394.png"},{"name":"Empoleon","speciesName":"empoleon","officialArtwork":"395.png"},{"name":"Starly","speciesName":"starly","officialArtwork":"396.png"},{"name":"Staravia","speciesName":"staravia","officialArtwork":"397.png"},{"name":"Staraptor","speciesName":"staraptor","officialArtwork":"398.png"},{"name":"Bidoof","speciesName":"bidoof","officialArtwork":"399.png"},{"name":"Bibarel","speciesName":"bibarel","officialArtwork":"400.png"},{"name":"Kricketot","speciesName":"kricketot","officialArtwork":"401.png"},{"name":"Kricketune","speciesName":"kricketune","officialArtwork":"402.png"},{"name":"Shinx","speciesName":"shinx","officialArtwork":"403.png"},{"name":"Luxio","speciesName":"luxio","officialArtwork":"404.png"},{"name":"Luxray","speciesName":"luxray","officialArtwork":"405.png"},{"name":"Budew","speciesName":"budew","officialArtwork":"406.png"},{"name":"Roserade","speciesName":"roserade","officialArtwork":"407.png"},{"name":"Cranidos","speciesName":"cranidos","officialArtwork":"408.png"},{"name":"Rampardos","speciesName":"rampardos","officialArtwork":"409.png"},{"name":"Shieldon","speciesName":"shieldon","officialArtwork":"410.png"},{"name":"Bastiodon","speciesName":"bastiodon","officialArtwork":"411.png"},{"name":"Burmy","speciesName":"burmy","officialArtwork":"412.png"},{"name":"Wormadam","speciesName":"wormadam","officialArtwork":"413.png"},{"name":"Mothim","speciesName":"mothim","officialArtwork":"414.png"},{"name":"Combee","speciesName":"combee","officialArtwork":"415.png"},{"name":"Vespiquen","speciesName":"vespiquen","officialArtwork":"416.png"},{"name":"Pachirisu","speciesName":"pachirisu","officialArtwork":"417.png"},{"name":"Buizel","speciesName":"buizel","officialArtwork":"418.png"},{"name":"Floatzel","speciesName":"floatzel","officialArtwork":"419.png"},{"name":"Cherubi","speciesName":"cherubi","officialArtwork":"420.png"},{"name":"Cherrim","speciesName":"cherrim","officialArtwork":"421.png"},{"name":"Shellos","speciesName":"shellos","officialArtwork":"422.png"},{"name":"Gastrodon","speciesName":"gastrodon","officialArtwork":"423.png"},{"name":"Ambipom","speciesName":"ambipom","officialArtwork":"424.png"},{"name":"Drifloon","speciesName":"drifloon","officialArtwork":"425.png"},{"name":"Drifblim","speciesName":"drifblim","officialArtwork":"426.png"},{"name":"Buneary","speciesName":"buneary","officialArtwork":"427.png"},{"name":"Lopunny","speciesName":"lopunny","officialArtwork":"428.png"},{"name":"Mismagius","speciesName":"mismagius","officialArtwork":"429.png"},{"name":"Honchkrow","speciesName":"honchkrow","officialArtwork":"430.png"},{"name":"Glameow","speciesName":"glameow","officialArtwork":"431.png"},{"name":"Purugly","speciesName":"purugly","officialArtwork":"432.png"},{"name":"Chingling","speciesName":"chingling","officialArtwork":"433.png"},{"name":"Stunky","speciesName":"stunky","officialArtwork":"434.png"},{"name":"Skuntank","speciesName":"skuntank","officialArtwork":"435.png"},{"name":"Bronzor","speciesName":"bronzor","officialArtwork":"436.png"},{"name":"Bronzong","speciesName":"bronzong","officialArtwork":"437.png"},{"name":"Bonsly","speciesName":"bonsly","officialArtwork":"438.png"},{"name":"Mime Jr.","speciesName":"mime-jr","officialArtwork":"439.png"},{"name":"Happiny","speciesName":"happiny","officialArtwork":"440.png"},{"name":"Chatot","speciesName":"chatot","officialArtwork":"441.png"},{"name":"Spiritomb","speciesName":"spiritomb","officialArtwork":"442.png"},{"name":"Gible","speciesName":"gible","officialArtwork":"443.png"},{"name":"Gabite","speciesName":"gabite","officialArtwork":"444.png"},{"name":"Garchomp","speciesName":"garchomp","officialArtwork":"445.png"},{"name":"Munchlax","speciesName":"munchlax","officialArtwork":"446.png"},{"name":"Riolu","speciesName":"riolu","officialArtwork":"447.png"},{"name":"Lucario","speciesName":"lucario","officialArtwork":"448.png"},{"name":"Hippopotas","speciesName":"hippopotas","officialArtwork":"449.png"},{"name":"Hippowdon","speciesName":"hippowdon","officialArtwork":"450.png"},{"name":"Skorupi","speciesName":"skorupi","officialArtwork":"451.png"},{"name":"Drapion","speciesName":"drapion","officialArtwork":"452.png"},{"name":"Croagunk","speciesName":"croagunk","officialArtwork":"453.png"},{"name":"Toxicroak","speciesName":"toxicroak","officialArtwork":"454.png"},{"name":"Carnivine","speciesName":"carnivine","officialArtwork":"455.png"},{"name":"Finneon","speciesName":"finneon","officialArtwork":"456.png"},{"name":"Lumineon","speciesName":"lumineon","officialArtwork":"457.png"},{"name":"Mantyke","speciesName":"mantyke","officialArtwork":"458.png"},{"name":"Snover","speciesName":"snover","officialArtwork":"459.png"},{"name":"Abomasnow","speciesName":"abomasnow","officialArtwork":"460.png"},{"name":"Weavile","speciesName":"weavile","officialArtwork":"461.png"},{"name":"Magnezone","speciesName":"magnezone","officialArtwork":"462.png"},{"name":"Lickilicky","speciesName":"lickilicky","officialArtwork":"463.png"},{"name":"Rhyperior","speciesName":"rhyperior","officialArtwork":"464.png"},{"name":"Tangrowth","speciesName":"tangrowth","officialArtwork":"465.png"},{"name":"Electivire","speciesName":"electivire","officialArtwork":"466.png"},{"name":"Magmortar","speciesName":"magmortar","officialArtwork":"467.png"},{"name":"Togekiss","speciesName":"togekiss","officialArtwork":"468.png"},{"name":"Yanmega","speciesName":"yanmega","officialArtwork":"469.png"},{"name":"Leafeon","speciesName":"leafeon","officialArtwork":"470.png"},{"name":"Glaceon","speciesName":"glaceon","officialArtwork":"471.png"},{"name":"Gliscor","speciesName":"gliscor","officialArtwork":"472.png"},{"name":"Mamoswine","speciesName":"mamoswine","officialArtwork":"473.png"},{"name":"Porygon-Z","speciesName":"porygon-z","officialArtwork":"474.png"},{"name":"Gallade","speciesName":"gallade","officialArtwork":"475.png"},{"name":"Probopass","speciesName":"probopass","officialArtwork":"476.png"},{"name":"Dusknoir","speciesName":"dusknoir","officialArtwork":"477.png"},{"name":"Froslass","speciesName":"froslass","officialArtwork":"478.png"},{"name":"Rotom","speciesName":"rotom","officialArtwork":"479.png"},{"name":"Uxie","speciesName":"uxie","officialArtwork":"480.png"},{"name":"Mesprit","speciesName":"mesprit","officialArtwork":"481.png"},{"name":"Azelf","speciesName":"azelf","officialArtwork":"482.png"},{"name":"Dialga","speciesName":"dialga","officialArtwork":"483.png"},{"name":"Palkia","speciesName":"palkia","officialArtwork":"484.png"},{"name":"Heatran","speciesName":"heatran","officialArtwork":"485.png"},{"name":"Regigigas","speciesName":"regigigas","officialArtwork":"486.png"},{"name":"Giratina","speciesName":"giratina-altered","officialArtwork":"487.png"},{"name":"Cresselia","speciesName":"cresselia","officialArtwork":"488.png"},{"name":"Phione","speciesName":"phione","officialArtwork":"489.png"},{"name":"Manaphy","speciesName":"manaphy","officialArtwork":"490.png"},{"name":"Darkrai","speciesName":"darkrai","officialArtwork":"491.png"},{"name":"Shaymin","speciesName":"shaymin-land","officialArtwork":"492.png"},{"name":"Arceus","speciesName":"arceus","officialArtwork":"493.png"},{"name":"Wormadam(Plant Cloak)","speciesName":"wormadam-plant","officialArtwork":"413.png"},{"name":"Wormadam(Sandy Cloak)","speciesName":"wormadam-sandy","officialArtwork":"10004.png"},{"name":"Wormadam(Trash Cloak)","speciesName":"wormadam-trash","officialArtwork":"10005.png"},{"name":"Shaymin(Sky Forme)","speciesName":"shaymin-sky","officialArtwork":"10006.png"},{"name":"Heat Rotom","speciesName":"rotom-heat","officialArtwork":"10008.png"},{"name":"Wash Rotom","speciesName":"rotom-wash","officialArtwork":"10009.png"},{"name":"Frost Rotom","speciesName":"rotom-frost","officialArtwork":"10010.png"},{"name":"Fan Rotom","speciesName":"rotom-fan","officialArtwork":"10011.png"},{"name":"Mow Rotom","speciesName":"rotom-mow","officialArtwork":"10012.png"},{"name":"Giratina(Origin Forme)\r","speciesName":"giratina-origin","officialArtwork":"10007.png"},{"name":"Victini","speciesName":"victini","officialArtwork":"494.png"},{"name":"Snivy","speciesName":"snivy","officialArtwork":"495.png"},{"name":"Servine","speciesName":"servine","officialArtwork":"496.png"},{"name":"Serperior","speciesName":"serperior","officialArtwork":"497.png"},{"name":"Tepig","speciesName":"tepig","officialArtwork":"498.png"},{"name":"Pignite","speciesName":"pignite","officialArtwork":"499.png"},{"name":"Emboar","speciesName":"emboar","officialArtwork":"500.png"},{"name":"Oshawott","speciesName":"oshawott","officialArtwork":"501.png"},{"name":"Dewott","speciesName":"dewott","officialArtwork":"502.png"},{"name":"Samurott","speciesName":"samurott","officialArtwork":"503.png"},{"name":"Patrat","speciesName":"patrat","officialArtwork":"504.png"},{"name":"Watchog","speciesName":"watchog","officialArtwork":"505.png"},{"name":"Lillipup","speciesName":"lillipup","officialArtwork":"506.png"},{"name":"Herdier","speciesName":"herdier","officialArtwork":"507.png"},{"name":"Stoutland","speciesName":"stoutland","officialArtwork":"508.png"},{"name":"Purrloin","speciesName":"purrloin","officialArtwork":"509.png"},{"name":"Liepard","speciesName":"liepard","officialArtwork":"510.png"},{"name":"Pansage","speciesName":"pansage","officialArtwork":"511.png"},{"name":"Simisage","speciesName":"simisage","officialArtwork":"512.png"},{"name":"Pansear","speciesName":"pansear","officialArtwork":"513.png"},{"name":"Simisear","speciesName":"simisear","officialArtwork":"514.png"},{"name":"Panpour","speciesName":"panpour","officialArtwork":"515.png"},{"name":"Simipour","speciesName":"simipour","officialArtwork":"516.png"},{"name":"Munna","speciesName":"munna","officialArtwork":"517.png"},{"name":"Musharna","speciesName":"musharna","officialArtwork":"518.png"},{"name":"Pidove","speciesName":"pidove","officialArtwork":"519.png"},{"name":"Tranquill","speciesName":"tranquill","officialArtwork":"520.png"},{"name":"Unfezant","speciesName":"unfezant","officialArtwork":"521.png"},{"name":"Blitzle","speciesName":"blitzle","officialArtwork":"522.png"},{"name":"Zebstrika","speciesName":"zebstrika","officialArtwork":"523.png"},{"name":"Roggenrola","speciesName":"roggenrola","officialArtwork":"524.png"},{"name":"Boldore","speciesName":"boldore","officialArtwork":"525.png"},{"name":"Gigalith","speciesName":"gigalith","officialArtwork":"526.png"},{"name":"Woobat","speciesName":"woobat","officialArtwork":"527.png"},{"name":"Swoobat","speciesName":"swoobat","officialArtwork":"528.png"},{"name":"Drilbur","speciesName":"drilbur","officialArtwork":"529.png"},{"name":"Excadrill","speciesName":"excadrill","officialArtwork":"530.png"},{"name":"Audino","speciesName":"audino","officialArtwork":"531.png"},{"name":"Timburr","speciesName":"timburr","officialArtwork":"532.png"},{"name":"Gurdurr","speciesName":"gurdurr","officialArtwork":"533.png"},{"name":"Conkeldurr","speciesName":"conkeldurr","officialArtwork":"534.png"},{"name":"Tympole","speciesName":"tympole","officialArtwork":"535.png"},{"name":"Palpitoad","speciesName":"palpitoad","officialArtwork":"536.png"},{"name":"Seismitoad","speciesName":"seismitoad","officialArtwork":"537.png"},{"name":"Throh","speciesName":"throh","officialArtwork":"538.png"},{"name":"Sawk","speciesName":"sawk","officialArtwork":"539.png"},{"name":"Sewaddle","speciesName":"sewaddle","officialArtwork":"540.png"},{"name":"Swadloon","speciesName":"swadloon","officialArtwork":"541.png"},{"name":"Leavanny","speciesName":"leavanny","officialArtwork":"542.png"},{"name":"Venipede","speciesName":"venipede","officialArtwork":"543.png"},{"name":"Whirlipede","speciesName":"whirlipede","officialArtwork":"544.png"},{"name":"Scolipede","speciesName":"scolipede","officialArtwork":"545.png"},{"name":"Cottonee","speciesName":"cottonee","officialArtwork":"546.png"},{"name":"Whimsicott","speciesName":"whimsicott","officialArtwork":"547.png"},{"name":"Petilil","speciesName":"petilil","officialArtwork":"548.png"},{"name":"Lilligant","speciesName":"lilligant","officialArtwork":"549.png"},{"name":"Basculin","speciesName":"basculin","officialArtwork":"550.png"},{"name":"Sandile","speciesName":"sandile","officialArtwork":"551.png"},{"name":"Krokorok","speciesName":"krokorok","officialArtwork":"552.png"},{"name":"Krookodile","speciesName":"krookodile","officialArtwork":"553.png"},{"name":"Darumaka","speciesName":"darumaka","officialArtwork":"554.png"},{"name":"Darmanitan","speciesName":"darmanitan","officialArtwork":"555.png"},{"name":"Maractus","speciesName":"maractus","officialArtwork":"556.png"},{"name":"Dwebble","speciesName":"dwebble","officialArtwork":"557.png"},{"name":"Crustle","speciesName":"crustle","officialArtwork":"558.png"},{"name":"Scraggy","speciesName":"scraggy","officialArtwork":"559.png"},{"name":"Scrafty","speciesName":"scrafty","officialArtwork":"560.png"},{"name":"Sigilyph","speciesName":"sigilyph","officialArtwork":"561.png"},{"name":"Yamask","speciesName":"yamask","officialArtwork":"562.png"},{"name":"Cofagrigus","speciesName":"cofagrigus","officialArtwork":"563.png"},{"name":"Tirtouga","speciesName":"tirtouga","officialArtwork":"564.png"},{"name":"Carracosta","speciesName":"carracosta","officialArtwork":"565.png"},{"name":"Archen","speciesName":"archen","officialArtwork":"566.png"},{"name":"Archeops","speciesName":"archeops","officialArtwork":"567.png"},{"name":"Trubbish","speciesName":"trubbish","officialArtwork":"568.png"},{"name":"Garbodor","speciesName":"garbodor","officialArtwork":"569.png"},{"name":"Zorua","speciesName":"zorua","officialArtwork":"570.png"},{"name":"Zoroark","speciesName":"zoroark","officialArtwork":"571.png"},{"name":"Minccino","speciesName":"minccino","officialArtwork":"572.png"},{"name":"Cinccino","speciesName":"cinccino","officialArtwork":"573.png"},{"name":"Gothita","speciesName":"gothita","officialArtwork":"574.png"},{"name":"Gothorita","speciesName":"gothorita","officialArtwork":"575.png"},{"name":"Gothitelle","speciesName":"gothitelle","officialArtwork":"576.png"},{"name":"Solosis","speciesName":"solosis","officialArtwork":"577.png"},{"name":"Duosion","speciesName":"duosion","officialArtwork":"578.png"},{"name":"Reuniclus","speciesName":"reuniclus","officialArtwork":"579.png"},{"name":"Ducklett","speciesName":"ducklett","officialArtwork":"580.png"},{"name":"Swanna","speciesName":"swanna","officialArtwork":"581.png"},{"name":"Vanillite","speciesName":"vanillite","officialArtwork":"582.png"},{"name":"Vanillish","speciesName":"vanillish","officialArtwork":"583.png"},{"name":"Vanilluxe","speciesName":"vanilluxe","officialArtwork":"584.png"},{"name":"Deerling","speciesName":"deerling","officialArtwork":"585.png"},{"name":"Sawsbuck","speciesName":"sawsbuck","officialArtwork":"586.png"},{"name":"Emolga","speciesName":"emolga","officialArtwork":"587.png"},{"name":"Karrablast","speciesName":"karrablast","officialArtwork":"588.png"},{"name":"Escavalier","speciesName":"escavalier","officialArtwork":"589.png"},{"name":"Foongus","speciesName":"foongus","officialArtwork":"590.png"},{"name":"Amoonguss","speciesName":"amoonguss","officialArtwork":"591.png"},{"name":"Frillish","speciesName":"frillish","officialArtwork":"592.png"},{"name":"Jellicent","speciesName":"jellicent","officialArtwork":"593.png"},{"name":"Alomomola","speciesName":"alomomola","officialArtwork":"594.png"},{"name":"Joltik","speciesName":"joltik","officialArtwork":"595.png"},{"name":"Galvantula","speciesName":"galvantula","officialArtwork":"596.png"},{"name":"Ferroseed","speciesName":"ferroseed","officialArtwork":"597.png"},{"name":"Ferrothorn","speciesName":"ferrothorn","officialArtwork":"598.png"},{"name":"Klink","speciesName":"klink","officialArtwork":"599.png"},{"name":"Klang","speciesName":"klang","officialArtwork":"600.png"},{"name":"Klinklang","speciesName":"klinklang","officialArtwork":"601.png"},{"name":"Tynamo","speciesName":"tynamo","officialArtwork":"602.png"},{"name":"Eelektrik","speciesName":"eelektrik","officialArtwork":"603.png"},{"name":"Eelektross","speciesName":"eelektross","officialArtwork":"604.png"},{"name":"Elgyem","speciesName":"elgyem","officialArtwork":"605.png"},{"name":"Beheeyem","speciesName":"beheeyem","officialArtwork":"606.png"},{"name":"Litwick","speciesName":"litwick","officialArtwork":"607.png"},{"name":"Lampent","speciesName":"lampent","officialArtwork":"608.png"},{"name":"Chandelure","speciesName":"chandelure","officialArtwork":"609.png"},{"name":"Axew","speciesName":"axew","officialArtwork":"610.png"},{"name":"Fraxure","speciesName":"fraxure","officialArtwork":"611.png"},{"name":"Haxorus","speciesName":"haxorus","officialArtwork":"612.png"},{"name":"Cubchoo","speciesName":"cubchoo","officialArtwork":"613.png"},{"name":"Beartic","speciesName":"beartic","officialArtwork":"614.png"},{"name":"Cryogonal","speciesName":"cryogonal","officialArtwork":"615.png"},{"name":"Shelmet","speciesName":"shelmet","officialArtwork":"616.png"},{"name":"Accelgor","speciesName":"accelgor","officialArtwork":"617.png"},{"name":"Stunfisk","speciesName":"stunfisk","officialArtwork":"618.png"},{"name":"Mienfoo","speciesName":"mienfoo","officialArtwork":"619.png"},{"name":"Mienshao","speciesName":"mienshao","officialArtwork":"620.png"},{"name":"Druddigon","speciesName":"druddigon","officialArtwork":"621.png"},{"name":"Golett","speciesName":"golett","officialArtwork":"622.png"},{"name":"Golurk","speciesName":"golurk","officialArtwork":"623.png"},{"name":"Pawniard","speciesName":"pawniard","officialArtwork":"624.png"},{"name":"Bisharp","speciesName":"bisharp","officialArtwork":"625.png"},{"name":"Bouffalant","speciesName":"bouffalant","officialArtwork":"626.png"},{"name":"Rufflet","speciesName":"rufflet","officialArtwork":"627.png"},{"name":"Braviary","speciesName":"braviary","officialArtwork":"628.png"},{"name":"Vullaby","speciesName":"vullaby","officialArtwork":"629.png"},{"name":"Mandibuzz","speciesName":"mandibuzz","officialArtwork":"630.png"},{"name":"Heatmor","speciesName":"heatmor","officialArtwork":"631.png"},{"name":"Durant","speciesName":"durant","officialArtwork":"632.png"},{"name":"Deino","speciesName":"deino","officialArtwork":"633.png"},{"name":"Zweilous","speciesName":"zweilous","officialArtwork":"634.png"},{"name":"Hydreigon","speciesName":"hydreigon","officialArtwork":"635.png"},{"name":"Larvesta","speciesName":"larvesta","officialArtwork":"636.png"},{"name":"Volcarona","speciesName":"volcarona","officialArtwork":"637.png"},{"name":"Cobalion","speciesName":"cobalion","officialArtwork":"638.png"},{"name":"Terrakion","speciesName":"terrakion","officialArtwork":"639.png"},{"name":"Virizion","speciesName":"virizion","officialArtwork":"640.png"},{"name":"Tornadus","speciesName":"tornadus","officialArtwork":"641.png"},{"name":"Thundurus","speciesName":"thundurus","officialArtwork":"642.png"},{"name":"Reshiram","speciesName":"reshiram","officialArtwork":"643.png"},{"name":"Zekrom","speciesName":"zekrom","officialArtwork":"644.png"},{"name":"Landorus","speciesName":"landorus","officialArtwork":"645.png"},{"name":"Kyurem","speciesName":"kyurem","officialArtwork":"646.png"},{"name":"Keldeo","speciesName":"keldeo","officialArtwork":"647.png"},{"name":"Meloetta","speciesName":"meloetta","officialArtwork":"648.png"},{"name":"Genesect","speciesName":"genesect","officialArtwork":"649.png"},{"name":"Darmanitan(Zen Mode)","speciesName":"darmanitan-zen","officialArtwork":"10017.png"},{"name":"Meloetta(Pirouette Forme)","speciesName":"meloetta-pirouette","officialArtwork":"10018.png"},{"name":"Tornadus(Therian Forme)","speciesName":"tornadus-therian","officialArtwork":"10019.png"},{"name":"Thundurus(Therian Forme)","speciesName":"thundurus-therian","officialArtwork":"10020.png"},{"name":"Landorus(Therian Forme)","speciesName":"landorus-therian","officialArtwork":"10021.png"},{"name":"White Kyurem","speciesName":"kyurem-black","officialArtwork":"10022.png"},{"name":"Black Kyurem\r","speciesName":"kyurem-white","officialArtwork":"10023.png"}]
+[
+  {
+    "name": "Bulbasaur",
+    "speciesName": "bulbasaur",
+    "officialArtwork": "1.png"
+  },
+  {
+    "name": "Ivysaur",
+    "speciesName": "ivysaur",
+    "officialArtwork": "2.png"
+  },
+  {
+    "name": "Venusaur",
+    "speciesName": "venusaur",
+    "officialArtwork": "3.png"
+  },
+  {
+    "name": "Charmander",
+    "speciesName": "charmander",
+    "officialArtwork": "4.png"
+  },
+  {
+    "name": "Charmeleon",
+    "speciesName": "charmeleon",
+    "officialArtwork": "5.png"
+  },
+  {
+    "name": "Charizard",
+    "speciesName": "charizard",
+    "officialArtwork": "6.png"
+  },
+  {
+    "name": "Squirtle",
+    "speciesName": "squirtle",
+    "officialArtwork": "7.png"
+  },
+  {
+    "name": "Wartortle",
+    "speciesName": "wartortle",
+    "officialArtwork": "8.png"
+  },
+  {
+    "name": "Blastoise",
+    "speciesName": "blastoise",
+    "officialArtwork": "9.png"
+  },
+  {
+    "name": "Caterpie",
+    "speciesName": "caterpie",
+    "officialArtwork": "10.png"
+  },
+  {
+    "name": "Metapod",
+    "speciesName": "metapod",
+    "officialArtwork": "11.png"
+  },
+  {
+    "name": "Butterfree",
+    "speciesName": "butterfree",
+    "officialArtwork": "12.png"
+  },
+  {
+    "name": "Weedle",
+    "speciesName": "weedle",
+    "officialArtwork": "13.png"
+  },
+  {
+    "name": "Kakuna",
+    "speciesName": "kakuna",
+    "officialArtwork": "14.png"
+  },
+  {
+    "name": "Beedrill",
+    "speciesName": "beedrill",
+    "officialArtwork": "15.png"
+  },
+  {
+    "name": "Pidgey",
+    "speciesName": "pidgey",
+    "officialArtwork": "16.png"
+  },
+  {
+    "name": "Pidgeotto",
+    "speciesName": "pidgeotto",
+    "officialArtwork": "17.png"
+  },
+  {
+    "name": "Pidgeot",
+    "speciesName": "pidgeot",
+    "officialArtwork": "18.png"
+  },
+  {
+    "name": "Rattata",
+    "speciesName": "rattata",
+    "officialArtwork": "19.png"
+  },
+  {
+    "name": "Raticate",
+    "speciesName": "raticate",
+    "officialArtwork": "20.png"
+  },
+  {
+    "name": "Spearow",
+    "speciesName": "spearow",
+    "officialArtwork": "21.png"
+  },
+  {
+    "name": "Fearow",
+    "speciesName": "fearow",
+    "officialArtwork": "22.png"
+  },
+  {
+    "name": "Ekans",
+    "speciesName": "ekans",
+    "officialArtwork": "23.png"
+  },
+  {
+    "name": "Arbok",
+    "speciesName": "arbok",
+    "officialArtwork": "24.png"
+  },
+  {
+    "name": "Pikachu",
+    "speciesName": "pikachu",
+    "officialArtwork": "25.png"
+  },
+  {
+    "name": "Raichu",
+    "speciesName": "raichu",
+    "officialArtwork": "26.png"
+  },
+  {
+    "name": "Sandshrew",
+    "speciesName": "sandshrew",
+    "officialArtwork": "27.png"
+  },
+  {
+    "name": "Sandslash",
+    "speciesName": "sandslash",
+    "officialArtwork": "28.png"
+  },
+  {
+    "name": "Nidoran♀",
+    "speciesName": "nidoran-f",
+    "officialArtwork": "29.png"
+  },
+  {
+    "name": "Nidorina",
+    "speciesName": "nidorina",
+    "officialArtwork": "30.png"
+  },
+  {
+    "name": "Nidoqueen",
+    "speciesName": "nidoqueen",
+    "officialArtwork": "31.png"
+  },
+  {
+    "name": "Nidoran♂",
+    "speciesName": "nidoran-m",
+    "officialArtwork": "32.png"
+  },
+  {
+    "name": "Nidorino",
+    "speciesName": "nidorino",
+    "officialArtwork": "33.png"
+  },
+  {
+    "name": "Nidoking",
+    "speciesName": "nidoking",
+    "officialArtwork": "34.png"
+  },
+  {
+    "name": "Clefairy",
+    "speciesName": "clefairy",
+    "officialArtwork": "35.png"
+  },
+  {
+    "name": "Clefable",
+    "speciesName": "clefable",
+    "officialArtwork": "36.png"
+  },
+  {
+    "name": "Vulpix",
+    "speciesName": "vulpix",
+    "officialArtwork": "37.png"
+  },
+  {
+    "name": "Ninetales",
+    "speciesName": "ninetales",
+    "officialArtwork": "38.png"
+  },
+  {
+    "name": "Jigglypuff",
+    "speciesName": "jigglypuff",
+    "officialArtwork": "39.png"
+  },
+  {
+    "name": "Wigglytuff",
+    "speciesName": "wigglytuff",
+    "officialArtwork": "40.png"
+  },
+  {
+    "name": "Zubat",
+    "speciesName": "zubat",
+    "officialArtwork": "41.png"
+  },
+  {
+    "name": "Golbat",
+    "speciesName": "golbat",
+    "officialArtwork": "42.png"
+  },
+  {
+    "name": "Oddish",
+    "speciesName": "oddish",
+    "officialArtwork": "43.png"
+  },
+  {
+    "name": "Gloom",
+    "speciesName": "gloom",
+    "officialArtwork": "44.png"
+  },
+  {
+    "name": "Vileplume",
+    "speciesName": "vileplume",
+    "officialArtwork": "45.png"
+  },
+  {
+    "name": "Paras",
+    "speciesName": "paras",
+    "officialArtwork": "46.png"
+  },
+  {
+    "name": "Parasect",
+    "speciesName": "parasect",
+    "officialArtwork": "47.png"
+  },
+  {
+    "name": "Venonat",
+    "speciesName": "venonat",
+    "officialArtwork": "48.png"
+  },
+  {
+    "name": "Venomoth",
+    "speciesName": "venomoth",
+    "officialArtwork": "49.png"
+  },
+  {
+    "name": "Diglett",
+    "speciesName": "diglett",
+    "officialArtwork": "50.png"
+  },
+  {
+    "name": "Dugtrio",
+    "speciesName": "dugtrio",
+    "officialArtwork": "51.png"
+  },
+  {
+    "name": "Meowth",
+    "speciesName": "meowth",
+    "officialArtwork": "52.png"
+  },
+  {
+    "name": "Persian",
+    "speciesName": "persian",
+    "officialArtwork": "53.png"
+  },
+  {
+    "name": "Psyduck",
+    "speciesName": "psyduck",
+    "officialArtwork": "54.png"
+  },
+  {
+    "name": "Golduck",
+    "speciesName": "golduck",
+    "officialArtwork": "55.png"
+  },
+  {
+    "name": "Mankey",
+    "speciesName": "mankey",
+    "officialArtwork": "56.png"
+  },
+  {
+    "name": "Primeape",
+    "speciesName": "primeape",
+    "officialArtwork": "57.png"
+  },
+  {
+    "name": "Growlithe",
+    "speciesName": "growlithe",
+    "officialArtwork": "58.png"
+  },
+  {
+    "name": "Arcanine",
+    "speciesName": "arcanine",
+    "officialArtwork": "59.png"
+  },
+  {
+    "name": "Poliwag",
+    "speciesName": "poliwag",
+    "officialArtwork": "60.png"
+  },
+  {
+    "name": "Poliwhirl",
+    "speciesName": "poliwhirl",
+    "officialArtwork": "61.png"
+  },
+  {
+    "name": "Poliwrath",
+    "speciesName": "poliwrath",
+    "officialArtwork": "62.png"
+  },
+  {
+    "name": "Abra",
+    "speciesName": "abra",
+    "officialArtwork": "63.png"
+  },
+  {
+    "name": "Kadabra",
+    "speciesName": "kadabra",
+    "officialArtwork": "64.png"
+  },
+  {
+    "name": "Alakazam",
+    "speciesName": "alakazam",
+    "officialArtwork": "65.png"
+  },
+  {
+    "name": "Machop",
+    "speciesName": "machop",
+    "officialArtwork": "66.png"
+  },
+  {
+    "name": "Machoke",
+    "speciesName": "machoke",
+    "officialArtwork": "67.png"
+  },
+  {
+    "name": "Machamp",
+    "speciesName": "machamp",
+    "officialArtwork": "68.png"
+  },
+  {
+    "name": "Bellsprout",
+    "speciesName": "bellsprout",
+    "officialArtwork": "69.png"
+  },
+  {
+    "name": "Weepinbell",
+    "speciesName": "weepinbell",
+    "officialArtwork": "70.png"
+  },
+  {
+    "name": "Victreebel",
+    "speciesName": "victreebel",
+    "officialArtwork": "71.png"
+  },
+  {
+    "name": "Tentacool",
+    "speciesName": "tentacool",
+    "officialArtwork": "72.png"
+  },
+  {
+    "name": "Tentacruel",
+    "speciesName": "tentacruel",
+    "officialArtwork": "73.png"
+  },
+  {
+    "name": "Geodude",
+    "speciesName": "geodude",
+    "officialArtwork": "74.png"
+  },
+  {
+    "name": "Graveler",
+    "speciesName": "graveler",
+    "officialArtwork": "75.png"
+  },
+  {
+    "name": "Golem",
+    "speciesName": "golem",
+    "officialArtwork": "76.png"
+  },
+  {
+    "name": "Ponyta",
+    "speciesName": "ponyta",
+    "officialArtwork": "77.png"
+  },
+  {
+    "name": "Rapidash",
+    "speciesName": "rapidash",
+    "officialArtwork": "78.png"
+  },
+  {
+    "name": "Slowpoke",
+    "speciesName": "slowpoke",
+    "officialArtwork": "79.png"
+  },
+  {
+    "name": "Slowbro",
+    "speciesName": "slowbro",
+    "officialArtwork": "80.png"
+  },
+  {
+    "name": "Magnemite",
+    "speciesName": "magnemite",
+    "officialArtwork": "81.png"
+  },
+  {
+    "name": "Magneton",
+    "speciesName": "magneton",
+    "officialArtwork": "82.png"
+  },
+  {
+    "name": "Farfetch’d",
+    "speciesName": "farfetchd",
+    "officialArtwork": "83.png"
+  },
+  {
+    "name": "Doduo",
+    "speciesName": "doduo",
+    "officialArtwork": "84.png"
+  },
+  {
+    "name": "Dodrio",
+    "speciesName": "dodrio",
+    "officialArtwork": "85.png"
+  },
+  {
+    "name": "Seel",
+    "speciesName": "seel",
+    "officialArtwork": "86.png"
+  },
+  {
+    "name": "Dewgong",
+    "speciesName": "dewgong",
+    "officialArtwork": "87.png"
+  },
+  {
+    "name": "Grimer",
+    "speciesName": "grimer",
+    "officialArtwork": "88.png"
+  },
+  {
+    "name": "Muk",
+    "speciesName": "muk",
+    "officialArtwork": "89.png"
+  },
+  {
+    "name": "Shellder",
+    "speciesName": "shellder",
+    "officialArtwork": "90.png"
+  },
+  {
+    "name": "Cloyster",
+    "speciesName": "cloyster",
+    "officialArtwork": "91.png"
+  },
+  {
+    "name": "Gastly",
+    "speciesName": "gastly",
+    "officialArtwork": "92.png"
+  },
+  {
+    "name": "Haunter",
+    "speciesName": "haunter",
+    "officialArtwork": "93.png"
+  },
+  {
+    "name": "Gengar",
+    "speciesName": "gengar",
+    "officialArtwork": "94.png"
+  },
+  {
+    "name": "Onix",
+    "speciesName": "onix",
+    "officialArtwork": "95.png"
+  },
+  {
+    "name": "Drowzee",
+    "speciesName": "drowzee",
+    "officialArtwork": "96.png"
+  },
+  {
+    "name": "Hypno",
+    "speciesName": "hypno",
+    "officialArtwork": "97.png"
+  },
+  {
+    "name": "Krabby",
+    "speciesName": "krabby",
+    "officialArtwork": "98.png"
+  },
+  {
+    "name": "Kingler",
+    "speciesName": "kingler",
+    "officialArtwork": "99.png"
+  },
+  {
+    "name": "Voltorb",
+    "speciesName": "voltorb",
+    "officialArtwork": "100.png"
+  },
+  {
+    "name": "Electrode",
+    "speciesName": "electrode",
+    "officialArtwork": "101.png"
+  },
+  {
+    "name": "Exeggcute",
+    "speciesName": "exeggcute",
+    "officialArtwork": "102.png"
+  },
+  {
+    "name": "Exeggutor",
+    "speciesName": "exeggutor",
+    "officialArtwork": "103.png"
+  },
+  {
+    "name": "Cubone",
+    "speciesName": "cubone",
+    "officialArtwork": "104.png"
+  },
+  {
+    "name": "Marowak",
+    "speciesName": "marowak",
+    "officialArtwork": "105.png"
+  },
+  {
+    "name": "Hitmonlee",
+    "speciesName": "hitmonlee",
+    "officialArtwork": "106.png"
+  },
+  {
+    "name": "Hitmonchan",
+    "speciesName": "hitmonchan",
+    "officialArtwork": "107.png"
+  },
+  {
+    "name": "Lickitung",
+    "speciesName": "lickitung",
+    "officialArtwork": "108.png"
+  },
+  {
+    "name": "Koffing",
+    "speciesName": "koffing",
+    "officialArtwork": "109.png"
+  },
+  {
+    "name": "Weezing",
+    "speciesName": "weezing",
+    "officialArtwork": "110.png"
+  },
+  {
+    "name": "Rhyhorn",
+    "speciesName": "rhyhorn",
+    "officialArtwork": "111.png"
+  },
+  {
+    "name": "Rhydon",
+    "speciesName": "rhydon",
+    "officialArtwork": "112.png"
+  },
+  {
+    "name": "Chansey",
+    "speciesName": "chansey",
+    "officialArtwork": "113.png"
+  },
+  {
+    "name": "Tangela",
+    "speciesName": "tangela",
+    "officialArtwork": "114.png"
+  },
+  {
+    "name": "Kangaskhan",
+    "speciesName": "kangaskhan",
+    "officialArtwork": "115.png"
+  },
+  {
+    "name": "Horsea",
+    "speciesName": "horsea",
+    "officialArtwork": "116.png"
+  },
+  {
+    "name": "Seadra",
+    "speciesName": "seadra",
+    "officialArtwork": "117.png"
+  },
+  {
+    "name": "Goldeen",
+    "speciesName": "goldeen",
+    "officialArtwork": "118.png"
+  },
+  {
+    "name": "Seaking",
+    "speciesName": "seaking",
+    "officialArtwork": "119.png"
+  },
+  {
+    "name": "Staryu",
+    "speciesName": "staryu",
+    "officialArtwork": "120.png"
+  },
+  {
+    "name": "Starmie",
+    "speciesName": "starmie",
+    "officialArtwork": "121.png"
+  },
+  {
+    "name": "Mr. Mime",
+    "speciesName": "mr-mime",
+    "officialArtwork": "122.png"
+  },
+  {
+    "name": "Scyther",
+    "speciesName": "scyther",
+    "officialArtwork": "123.png"
+  },
+  {
+    "name": "Jynx",
+    "speciesName": "jynx",
+    "officialArtwork": "124.png"
+  },
+  {
+    "name": "Electabuzz",
+    "speciesName": "electabuzz",
+    "officialArtwork": "125.png"
+  },
+  {
+    "name": "Magmar",
+    "speciesName": "magmar",
+    "officialArtwork": "126.png"
+  },
+  {
+    "name": "Pinsir",
+    "speciesName": "pinsir",
+    "officialArtwork": "127.png"
+  },
+  {
+    "name": "Tauros",
+    "speciesName": "tauros",
+    "officialArtwork": "128.png"
+  },
+  {
+    "name": "Magikarp",
+    "speciesName": "magikarp",
+    "officialArtwork": "129.png"
+  },
+  {
+    "name": "Gyarados",
+    "speciesName": "gyarados",
+    "officialArtwork": "130.png"
+  },
+  {
+    "name": "Lapras",
+    "speciesName": "lapras",
+    "officialArtwork": "131.png"
+  },
+  {
+    "name": "Ditto",
+    "speciesName": "ditto",
+    "officialArtwork": "132.png"
+  },
+  {
+    "name": "Eevee",
+    "speciesName": "eevee",
+    "officialArtwork": "133.png"
+  },
+  {
+    "name": "Vaporeon",
+    "speciesName": "vaporeon",
+    "officialArtwork": "134.png"
+  },
+  {
+    "name": "Jolteon",
+    "speciesName": "jolteon",
+    "officialArtwork": "135.png"
+  },
+  {
+    "name": "Flareon",
+    "speciesName": "flareon",
+    "officialArtwork": "136.png"
+  },
+  {
+    "name": "Porygon",
+    "speciesName": "porygon",
+    "officialArtwork": "137.png"
+  },
+  {
+    "name": "Omanyte",
+    "speciesName": "omanyte",
+    "officialArtwork": "138.png"
+  },
+  {
+    "name": "Omastar",
+    "speciesName": "omastar",
+    "officialArtwork": "139.png"
+  },
+  {
+    "name": "Kabuto",
+    "speciesName": "kabuto",
+    "officialArtwork": "140.png"
+  },
+  {
+    "name": "Kabutops",
+    "speciesName": "kabutops",
+    "officialArtwork": "141.png"
+  },
+  {
+    "name": "Aerodactyl",
+    "speciesName": "aerodactyl",
+    "officialArtwork": "142.png"
+  },
+  {
+    "name": "Snorlax",
+    "speciesName": "snorlax",
+    "officialArtwork": "143.png"
+  },
+  {
+    "name": "Articuno",
+    "speciesName": "articuno",
+    "officialArtwork": "144.png"
+  },
+  {
+    "name": "Zapdos",
+    "speciesName": "zapdos",
+    "officialArtwork": "145.png"
+  },
+  {
+    "name": "Moltres",
+    "speciesName": "moltres",
+    "officialArtwork": "146.png"
+  },
+  {
+    "name": "Dratini",
+    "speciesName": "dratini",
+    "officialArtwork": "147.png"
+  },
+  {
+    "name": "Dragonair",
+    "speciesName": "dragonair",
+    "officialArtwork": "148.png"
+  },
+  {
+    "name": "Dragonite",
+    "speciesName": "dragonite",
+    "officialArtwork": "149.png"
+  },
+  {
+    "name": "Mewtwo",
+    "speciesName": "mewtwo",
+    "officialArtwork": "150.png"
+  },
+  {
+    "name": "Mew",
+    "speciesName": "mew",
+    "officialArtwork": "151.png"
+  },
+  {
+    "name": "Chikorita",
+    "speciesName": "chikorita",
+    "officialArtwork": "152.png"
+  },
+  {
+    "name": "Bayleef",
+    "speciesName": "bayleef",
+    "officialArtwork": "153.png"
+  },
+  {
+    "name": "Meganium",
+    "speciesName": "meganium",
+    "officialArtwork": "154.png"
+  },
+  {
+    "name": "Cyndaquil",
+    "speciesName": "cyndaquil",
+    "officialArtwork": "155.png"
+  },
+  {
+    "name": "Quilava",
+    "speciesName": "quilava",
+    "officialArtwork": "156.png"
+  },
+  {
+    "name": "Typhlosion",
+    "speciesName": "typhlosion",
+    "officialArtwork": "157.png"
+  },
+  {
+    "name": "Totodile",
+    "speciesName": "totodile",
+    "officialArtwork": "158.png"
+  },
+  {
+    "name": "Croconaw",
+    "speciesName": "croconaw",
+    "officialArtwork": "159.png"
+  },
+  {
+    "name": "Feraligatr",
+    "speciesName": "feraligatr",
+    "officialArtwork": "160.png"
+  },
+  {
+    "name": "Sentret",
+    "speciesName": "sentret",
+    "officialArtwork": "161.png"
+  },
+  {
+    "name": "Furret",
+    "speciesName": "furret",
+    "officialArtwork": "162.png"
+  },
+  {
+    "name": "Hoothoot",
+    "speciesName": "hoothoot",
+    "officialArtwork": "163.png"
+  },
+  {
+    "name": "Noctowl",
+    "speciesName": "noctowl",
+    "officialArtwork": "164.png"
+  },
+  {
+    "name": "Ledyba",
+    "speciesName": "ledyba",
+    "officialArtwork": "165.png"
+  },
+  {
+    "name": "Ledian",
+    "speciesName": "ledian",
+    "officialArtwork": "166.png"
+  },
+  {
+    "name": "Spinarak",
+    "speciesName": "spinarak",
+    "officialArtwork": "167.png"
+  },
+  {
+    "name": "Ariados",
+    "speciesName": "ariados",
+    "officialArtwork": "168.png"
+  },
+  {
+    "name": "Crobat",
+    "speciesName": "crobat",
+    "officialArtwork": "169.png"
+  },
+  {
+    "name": "Chinchou",
+    "speciesName": "chinchou",
+    "officialArtwork": "170.png"
+  },
+  {
+    "name": "Lanturn",
+    "speciesName": "lanturn",
+    "officialArtwork": "171.png"
+  },
+  {
+    "name": "Pichu",
+    "speciesName": "pichu",
+    "officialArtwork": "172.png"
+  },
+  {
+    "name": "Cleffa",
+    "speciesName": "cleffa",
+    "officialArtwork": "173.png"
+  },
+  {
+    "name": "Igglybuff",
+    "speciesName": "igglybuff",
+    "officialArtwork": "174.png"
+  },
+  {
+    "name": "Togepi",
+    "speciesName": "togepi",
+    "officialArtwork": "175.png"
+  },
+  {
+    "name": "Togetic",
+    "speciesName": "togetic",
+    "officialArtwork": "176.png"
+  },
+  {
+    "name": "Natu",
+    "speciesName": "natu",
+    "officialArtwork": "177.png"
+  },
+  {
+    "name": "Xatu",
+    "speciesName": "xatu",
+    "officialArtwork": "178.png"
+  },
+  {
+    "name": "Mareep",
+    "speciesName": "mareep",
+    "officialArtwork": "179.png"
+  },
+  {
+    "name": "Flaaffy",
+    "speciesName": "flaaffy",
+    "officialArtwork": "180.png"
+  },
+  {
+    "name": "Ampharos",
+    "speciesName": "ampharos",
+    "officialArtwork": "181.png"
+  },
+  {
+    "name": "Bellossom",
+    "speciesName": "bellossom",
+    "officialArtwork": "182.png"
+  },
+  {
+    "name": "Marill",
+    "speciesName": "marill",
+    "officialArtwork": "183.png"
+  },
+  {
+    "name": "Azumarill",
+    "speciesName": "azumarill",
+    "officialArtwork": "184.png"
+  },
+  {
+    "name": "Sudowoodo",
+    "speciesName": "sudowoodo",
+    "officialArtwork": "185.png"
+  },
+  {
+    "name": "Politoed",
+    "speciesName": "politoed",
+    "officialArtwork": "186.png"
+  },
+  {
+    "name": "Hoppip",
+    "speciesName": "hoppip",
+    "officialArtwork": "187.png"
+  },
+  {
+    "name": "Skiploom",
+    "speciesName": "skiploom",
+    "officialArtwork": "188.png"
+  },
+  {
+    "name": "Jumpluff",
+    "speciesName": "jumpluff",
+    "officialArtwork": "189.png"
+  },
+  {
+    "name": "Aipom",
+    "speciesName": "aipom",
+    "officialArtwork": "190.png"
+  },
+  {
+    "name": "Sunkern",
+    "speciesName": "sunkern",
+    "officialArtwork": "191.png"
+  },
+  {
+    "name": "Sunflora",
+    "speciesName": "sunflora",
+    "officialArtwork": "192.png"
+  },
+  {
+    "name": "Yanma",
+    "speciesName": "yanma",
+    "officialArtwork": "193.png"
+  },
+  {
+    "name": "Wooper",
+    "speciesName": "wooper",
+    "officialArtwork": "194.png"
+  },
+  {
+    "name": "Quagsire",
+    "speciesName": "quagsire",
+    "officialArtwork": "195.png"
+  },
+  {
+    "name": "Espeon",
+    "speciesName": "espeon",
+    "officialArtwork": "196.png"
+  },
+  {
+    "name": "Umbreon",
+    "speciesName": "umbreon",
+    "officialArtwork": "197.png"
+  },
+  {
+    "name": "Murkrow",
+    "speciesName": "murkrow",
+    "officialArtwork": "198.png"
+  },
+  {
+    "name": "Slowking",
+    "speciesName": "slowking",
+    "officialArtwork": "199.png"
+  },
+  {
+    "name": "Misdreavus",
+    "speciesName": "misdreavus",
+    "officialArtwork": "200.png"
+  },
+  {
+    "name": "Unown",
+    "speciesName": "unown",
+    "officialArtwork": "201.png"
+  },
+  {
+    "name": "Wobbuffet",
+    "speciesName": "wobbuffet",
+    "officialArtwork": "202.png"
+  },
+  {
+    "name": "Girafarig",
+    "speciesName": "girafarig",
+    "officialArtwork": "203.png"
+  },
+  {
+    "name": "Pineco",
+    "speciesName": "pineco",
+    "officialArtwork": "204.png"
+  },
+  {
+    "name": "Forretress",
+    "speciesName": "forretress",
+    "officialArtwork": "205.png"
+  },
+  {
+    "name": "Dunsparce",
+    "speciesName": "dunsparce",
+    "officialArtwork": "206.png"
+  },
+  {
+    "name": "Gligar",
+    "speciesName": "gligar",
+    "officialArtwork": "207.png"
+  },
+  {
+    "name": "Steelix",
+    "speciesName": "steelix",
+    "officialArtwork": "208.png"
+  },
+  {
+    "name": "Snubbull",
+    "speciesName": "snubbull",
+    "officialArtwork": "209.png"
+  },
+  {
+    "name": "Granbull",
+    "speciesName": "granbull",
+    "officialArtwork": "210.png"
+  },
+  {
+    "name": "Qwilfish",
+    "speciesName": "qwilfish",
+    "officialArtwork": "211.png"
+  },
+  {
+    "name": "Scizor",
+    "speciesName": "scizor",
+    "officialArtwork": "212.png"
+  },
+  {
+    "name": "Shuckle",
+    "speciesName": "shuckle",
+    "officialArtwork": "213.png"
+  },
+  {
+    "name": "Heracross",
+    "speciesName": "heracross",
+    "officialArtwork": "214.png"
+  },
+  {
+    "name": "Sneasel",
+    "speciesName": "sneasel",
+    "officialArtwork": "215.png"
+  },
+  {
+    "name": "Teddiursa",
+    "speciesName": "teddiursa",
+    "officialArtwork": "216.png"
+  },
+  {
+    "name": "Ursaring",
+    "speciesName": "ursaring",
+    "officialArtwork": "217.png"
+  },
+  {
+    "name": "Slugma",
+    "speciesName": "slugma",
+    "officialArtwork": "218.png"
+  },
+  {
+    "name": "Magcargo",
+    "speciesName": "magcargo",
+    "officialArtwork": "219.png"
+  },
+  {
+    "name": "Swinub",
+    "speciesName": "swinub",
+    "officialArtwork": "220.png"
+  },
+  {
+    "name": "Piloswine",
+    "speciesName": "piloswine",
+    "officialArtwork": "221.png"
+  },
+  {
+    "name": "Corsola",
+    "speciesName": "corsola",
+    "officialArtwork": "222.png"
+  },
+  {
+    "name": "Remoraid",
+    "speciesName": "remoraid",
+    "officialArtwork": "223.png"
+  },
+  {
+    "name": "Octillery",
+    "speciesName": "octillery",
+    "officialArtwork": "224.png"
+  },
+  {
+    "name": "Delibird",
+    "speciesName": "delibird",
+    "officialArtwork": "225.png"
+  },
+  {
+    "name": "Mantine",
+    "speciesName": "mantine",
+    "officialArtwork": "226.png"
+  },
+  {
+    "name": "Skarmory",
+    "speciesName": "skarmory",
+    "officialArtwork": "227.png"
+  },
+  {
+    "name": "Houndour",
+    "speciesName": "houndour",
+    "officialArtwork": "228.png"
+  },
+  {
+    "name": "Houndoom",
+    "speciesName": "houndoom",
+    "officialArtwork": "229.png"
+  },
+  {
+    "name": "Kingdra",
+    "speciesName": "kingdra",
+    "officialArtwork": "230.png"
+  },
+  {
+    "name": "Phanpy",
+    "speciesName": "phanpy",
+    "officialArtwork": "231.png"
+  },
+  {
+    "name": "Donphan",
+    "speciesName": "donphan",
+    "officialArtwork": "232.png"
+  },
+  {
+    "name": "Porygon2",
+    "speciesName": "porygon2",
+    "officialArtwork": "233.png"
+  },
+  {
+    "name": "Stantler",
+    "speciesName": "stantler",
+    "officialArtwork": "234.png"
+  },
+  {
+    "name": "Smeargle",
+    "speciesName": "smeargle",
+    "officialArtwork": "235.png"
+  },
+  {
+    "name": "Tyrogue",
+    "speciesName": "tyrogue",
+    "officialArtwork": "236.png"
+  },
+  {
+    "name": "Hitmontop",
+    "speciesName": "hitmontop",
+    "officialArtwork": "237.png"
+  },
+  {
+    "name": "Smoochum",
+    "speciesName": "smoochum",
+    "officialArtwork": "238.png"
+  },
+  {
+    "name": "Elekid",
+    "speciesName": "elekid",
+    "officialArtwork": "239.png"
+  },
+  {
+    "name": "Magby",
+    "speciesName": "magby",
+    "officialArtwork": "240.png"
+  },
+  {
+    "name": "Miltank",
+    "speciesName": "miltank",
+    "officialArtwork": "241.png"
+  },
+  {
+    "name": "Blissey",
+    "speciesName": "blissey",
+    "officialArtwork": "242.png"
+  },
+  {
+    "name": "Raikou",
+    "speciesName": "raikou",
+    "officialArtwork": "243.png"
+  },
+  {
+    "name": "Entei",
+    "speciesName": "entei",
+    "officialArtwork": "244.png"
+  },
+  {
+    "name": "Suicune",
+    "speciesName": "suicune",
+    "officialArtwork": "245.png"
+  },
+  {
+    "name": "Larvitar",
+    "speciesName": "larvitar",
+    "officialArtwork": "246.png"
+  },
+  {
+    "name": "Pupitar",
+    "speciesName": "pupitar",
+    "officialArtwork": "247.png"
+  },
+  {
+    "name": "Tyranitar",
+    "speciesName": "tyranitar",
+    "officialArtwork": "248.png"
+  },
+  {
+    "name": "Lugia",
+    "speciesName": "lugia",
+    "officialArtwork": "249.png"
+  },
+  {
+    "name": "Ho-Oh",
+    "speciesName": "ho-oh",
+    "officialArtwork": "250.png"
+  },
+  {
+    "name": "Celebi",
+    "speciesName": "celebi",
+    "officialArtwork": "251.png"
+  },
+  {
+    "name": "Treecko",
+    "speciesName": "treecko",
+    "officialArtwork": "252.png"
+  },
+  {
+    "name": "Grovyle",
+    "speciesName": "grovyle",
+    "officialArtwork": "253.png"
+  },
+  {
+    "name": "Sceptile",
+    "speciesName": "sceptile",
+    "officialArtwork": "254.png"
+  },
+  {
+    "name": "Torchic",
+    "speciesName": "torchic",
+    "officialArtwork": "255.png"
+  },
+  {
+    "name": "Combusken",
+    "speciesName": "combusken",
+    "officialArtwork": "256.png"
+  },
+  {
+    "name": "Blaziken",
+    "speciesName": "blaziken",
+    "officialArtwork": "257.png"
+  },
+  {
+    "name": "Mudkip",
+    "speciesName": "mudkip",
+    "officialArtwork": "258.png"
+  },
+  {
+    "name": "Marshtomp",
+    "speciesName": "marshtomp",
+    "officialArtwork": "259.png"
+  },
+  {
+    "name": "Swampert",
+    "speciesName": "swampert",
+    "officialArtwork": "260.png"
+  },
+  {
+    "name": "Poochyena",
+    "speciesName": "poochyena",
+    "officialArtwork": "261.png"
+  },
+  {
+    "name": "Mightyena",
+    "speciesName": "mightyena",
+    "officialArtwork": "262.png"
+  },
+  {
+    "name": "Zigzagoon",
+    "speciesName": "zigzagoon",
+    "officialArtwork": "263.png"
+  },
+  {
+    "name": "Linoone",
+    "speciesName": "linoone",
+    "officialArtwork": "264.png"
+  },
+  {
+    "name": "Wurmple",
+    "speciesName": "wurmple",
+    "officialArtwork": "265.png"
+  },
+  {
+    "name": "Silcoon",
+    "speciesName": "silcoon",
+    "officialArtwork": "266.png"
+  },
+  {
+    "name": "Beautifly",
+    "speciesName": "beautifly",
+    "officialArtwork": "267.png"
+  },
+  {
+    "name": "Cascoon",
+    "speciesName": "cascoon",
+    "officialArtwork": "268.png"
+  },
+  {
+    "name": "Dustox",
+    "speciesName": "dustox",
+    "officialArtwork": "269.png"
+  },
+  {
+    "name": "Lotad",
+    "speciesName": "lotad",
+    "officialArtwork": "270.png"
+  },
+  {
+    "name": "Lombre",
+    "speciesName": "lombre",
+    "officialArtwork": "271.png"
+  },
+  {
+    "name": "Ludicolo",
+    "speciesName": "ludicolo",
+    "officialArtwork": "272.png"
+  },
+  {
+    "name": "Seedot",
+    "speciesName": "seedot",
+    "officialArtwork": "273.png"
+  },
+  {
+    "name": "Nuzleaf",
+    "speciesName": "nuzleaf",
+    "officialArtwork": "274.png"
+  },
+  {
+    "name": "Shiftry",
+    "speciesName": "shiftry",
+    "officialArtwork": "275.png"
+  },
+  {
+    "name": "Taillow",
+    "speciesName": "taillow",
+    "officialArtwork": "276.png"
+  },
+  {
+    "name": "Swellow",
+    "speciesName": "swellow",
+    "officialArtwork": "277.png"
+  },
+  {
+    "name": "Wingull",
+    "speciesName": "wingull",
+    "officialArtwork": "278.png"
+  },
+  {
+    "name": "Pelipper",
+    "speciesName": "pelipper",
+    "officialArtwork": "279.png"
+  },
+  {
+    "name": "Ralts",
+    "speciesName": "ralts",
+    "officialArtwork": "280.png"
+  },
+  {
+    "name": "Kirlia",
+    "speciesName": "kirlia",
+    "officialArtwork": "281.png"
+  },
+  {
+    "name": "Gardevoir",
+    "speciesName": "gardevoir",
+    "officialArtwork": "282.png"
+  },
+  {
+    "name": "Surskit",
+    "speciesName": "surskit",
+    "officialArtwork": "283.png"
+  },
+  {
+    "name": "Masquerain",
+    "speciesName": "masquerain",
+    "officialArtwork": "284.png"
+  },
+  {
+    "name": "Shroomish",
+    "speciesName": "shroomish",
+    "officialArtwork": "285.png"
+  },
+  {
+    "name": "Breloom",
+    "speciesName": "breloom",
+    "officialArtwork": "286.png"
+  },
+  {
+    "name": "Slakoth",
+    "speciesName": "slakoth",
+    "officialArtwork": "287.png"
+  },
+  {
+    "name": "Vigoroth",
+    "speciesName": "vigoroth",
+    "officialArtwork": "288.png"
+  },
+  {
+    "name": "Slaking",
+    "speciesName": "slaking",
+    "officialArtwork": "289.png"
+  },
+  {
+    "name": "Nincada",
+    "speciesName": "nincada",
+    "officialArtwork": "290.png"
+  },
+  {
+    "name": "Ninjask",
+    "speciesName": "ninjask",
+    "officialArtwork": "291.png"
+  },
+  {
+    "name": "Shedinja",
+    "speciesName": "shedinja",
+    "officialArtwork": "292.png"
+  },
+  {
+    "name": "Whismur",
+    "speciesName": "whismur",
+    "officialArtwork": "293.png"
+  },
+  {
+    "name": "Loudred",
+    "speciesName": "loudred",
+    "officialArtwork": "294.png"
+  },
+  {
+    "name": "Exploud",
+    "speciesName": "exploud",
+    "officialArtwork": "295.png"
+  },
+  {
+    "name": "Makuhita",
+    "speciesName": "makuhita",
+    "officialArtwork": "296.png"
+  },
+  {
+    "name": "Hariyama",
+    "speciesName": "hariyama",
+    "officialArtwork": "297.png"
+  },
+  {
+    "name": "Azurill",
+    "speciesName": "azurill",
+    "officialArtwork": "298.png"
+  },
+  {
+    "name": "Nosepass",
+    "speciesName": "nosepass",
+    "officialArtwork": "299.png"
+  },
+  {
+    "name": "Skitty",
+    "speciesName": "skitty",
+    "officialArtwork": "300.png"
+  },
+  {
+    "name": "Delcatty",
+    "speciesName": "delcatty",
+    "officialArtwork": "301.png"
+  },
+  {
+    "name": "Sableye",
+    "speciesName": "sableye",
+    "officialArtwork": "302.png"
+  },
+  {
+    "name": "Mawile",
+    "speciesName": "mawile",
+    "officialArtwork": "303.png"
+  },
+  {
+    "name": "Aron",
+    "speciesName": "aron",
+    "officialArtwork": "304.png"
+  },
+  {
+    "name": "Lairon",
+    "speciesName": "lairon",
+    "officialArtwork": "305.png"
+  },
+  {
+    "name": "Aggron",
+    "speciesName": "aggron",
+    "officialArtwork": "306.png"
+  },
+  {
+    "name": "Meditite",
+    "speciesName": "meditite",
+    "officialArtwork": "307.png"
+  },
+  {
+    "name": "Medicham",
+    "speciesName": "medicham",
+    "officialArtwork": "308.png"
+  },
+  {
+    "name": "Electrike",
+    "speciesName": "electrike",
+    "officialArtwork": "309.png"
+  },
+  {
+    "name": "Manectric",
+    "speciesName": "manectric",
+    "officialArtwork": "310.png"
+  },
+  {
+    "name": "Plusle",
+    "speciesName": "plusle",
+    "officialArtwork": "311.png"
+  },
+  {
+    "name": "Minun",
+    "speciesName": "minun",
+    "officialArtwork": "312.png"
+  },
+  {
+    "name": "Volbeat",
+    "speciesName": "volbeat",
+    "officialArtwork": "313.png"
+  },
+  {
+    "name": "Illumise",
+    "speciesName": "illumise",
+    "officialArtwork": "314.png"
+  },
+  {
+    "name": "Roselia",
+    "speciesName": "roselia",
+    "officialArtwork": "315.png"
+  },
+  {
+    "name": "Gulpin",
+    "speciesName": "gulpin",
+    "officialArtwork": "316.png"
+  },
+  {
+    "name": "Swalot",
+    "speciesName": "swalot",
+    "officialArtwork": "317.png"
+  },
+  {
+    "name": "Carvanha",
+    "speciesName": "carvanha",
+    "officialArtwork": "318.png"
+  },
+  {
+    "name": "Sharpedo",
+    "speciesName": "sharpedo",
+    "officialArtwork": "319.png"
+  },
+  {
+    "name": "Wailmer",
+    "speciesName": "wailmer",
+    "officialArtwork": "320.png"
+  },
+  {
+    "name": "Wailord",
+    "speciesName": "wailord",
+    "officialArtwork": "321.png"
+  },
+  {
+    "name": "Numel",
+    "speciesName": "numel",
+    "officialArtwork": "322.png"
+  },
+  {
+    "name": "Camerupt",
+    "speciesName": "camerupt",
+    "officialArtwork": "323.png"
+  },
+  {
+    "name": "Torkoal",
+    "speciesName": "torkoal",
+    "officialArtwork": "324.png"
+  },
+  {
+    "name": "Spoink",
+    "speciesName": "spoink",
+    "officialArtwork": "325.png"
+  },
+  {
+    "name": "Grumpig",
+    "speciesName": "grumpig",
+    "officialArtwork": "326.png"
+  },
+  {
+    "name": "Spinda",
+    "speciesName": "spinda",
+    "officialArtwork": "327.png"
+  },
+  {
+    "name": "Trapinch",
+    "speciesName": "trapinch",
+    "officialArtwork": "328.png"
+  },
+  {
+    "name": "Vibrava",
+    "speciesName": "vibrava",
+    "officialArtwork": "329.png"
+  },
+  {
+    "name": "Flygon",
+    "speciesName": "flygon",
+    "officialArtwork": "330.png"
+  },
+  {
+    "name": "Cacnea",
+    "speciesName": "cacnea",
+    "officialArtwork": "331.png"
+  },
+  {
+    "name": "Cacturne",
+    "speciesName": "cacturne",
+    "officialArtwork": "332.png"
+  },
+  {
+    "name": "Swablu",
+    "speciesName": "swablu",
+    "officialArtwork": "333.png"
+  },
+  {
+    "name": "Altaria",
+    "speciesName": "altaria",
+    "officialArtwork": "334.png"
+  },
+  {
+    "name": "Zangoose",
+    "speciesName": "zangoose",
+    "officialArtwork": "335.png"
+  },
+  {
+    "name": "Seviper",
+    "speciesName": "seviper",
+    "officialArtwork": "336.png"
+  },
+  {
+    "name": "Lunatone",
+    "speciesName": "lunatone",
+    "officialArtwork": "337.png"
+  },
+  {
+    "name": "Solrock",
+    "speciesName": "solrock",
+    "officialArtwork": "338.png"
+  },
+  {
+    "name": "Barboach",
+    "speciesName": "barboach",
+    "officialArtwork": "339.png"
+  },
+  {
+    "name": "Whiscash",
+    "speciesName": "whiscash",
+    "officialArtwork": "340.png"
+  },
+  {
+    "name": "Corphish",
+    "speciesName": "corphish",
+    "officialArtwork": "341.png"
+  },
+  {
+    "name": "Crawdaunt",
+    "speciesName": "crawdaunt",
+    "officialArtwork": "342.png"
+  },
+  {
+    "name": "Baltoy",
+    "speciesName": "baltoy",
+    "officialArtwork": "343.png"
+  },
+  {
+    "name": "Claydol",
+    "speciesName": "claydol",
+    "officialArtwork": "344.png"
+  },
+  {
+    "name": "Lileep",
+    "speciesName": "lileep",
+    "officialArtwork": "345.png"
+  },
+  {
+    "name": "Cradily",
+    "speciesName": "cradily",
+    "officialArtwork": "346.png"
+  },
+  {
+    "name": "Anorith",
+    "speciesName": "anorith",
+    "officialArtwork": "347.png"
+  },
+  {
+    "name": "Armaldo",
+    "speciesName": "armaldo",
+    "officialArtwork": "348.png"
+  },
+  {
+    "name": "Feebas",
+    "speciesName": "feebas",
+    "officialArtwork": "349.png"
+  },
+  {
+    "name": "Milotic",
+    "speciesName": "milotic",
+    "officialArtwork": "350.png"
+  },
+  {
+    "name": "Castform",
+    "speciesName": "castform",
+    "officialArtwork": "351.png"
+  },
+  {
+    "name": "Kecleon",
+    "speciesName": "kecleon",
+    "officialArtwork": "352.png"
+  },
+  {
+    "name": "Shuppet",
+    "speciesName": "shuppet",
+    "officialArtwork": "353.png"
+  },
+  {
+    "name": "Banette",
+    "speciesName": "banette",
+    "officialArtwork": "354.png"
+  },
+  {
+    "name": "Duskull",
+    "speciesName": "duskull",
+    "officialArtwork": "355.png"
+  },
+  {
+    "name": "Dusclops",
+    "speciesName": "dusclops",
+    "officialArtwork": "356.png"
+  },
+  {
+    "name": "Tropius",
+    "speciesName": "tropius",
+    "officialArtwork": "357.png"
+  },
+  {
+    "name": "Chimecho",
+    "speciesName": "chimecho",
+    "officialArtwork": "358.png"
+  },
+  {
+    "name": "Absol",
+    "speciesName": "absol",
+    "officialArtwork": "359.png"
+  },
+  {
+    "name": "Wynaut",
+    "speciesName": "wynaut",
+    "officialArtwork": "360.png"
+  },
+  {
+    "name": "Snorunt",
+    "speciesName": "snorunt",
+    "officialArtwork": "361.png"
+  },
+  {
+    "name": "Glalie",
+    "speciesName": "glalie",
+    "officialArtwork": "362.png"
+  },
+  {
+    "name": "Spheal",
+    "speciesName": "spheal",
+    "officialArtwork": "363.png"
+  },
+  {
+    "name": "Sealeo",
+    "speciesName": "sealeo",
+    "officialArtwork": "364.png"
+  },
+  {
+    "name": "Walrein",
+    "speciesName": "walrein",
+    "officialArtwork": "365.png"
+  },
+  {
+    "name": "Clamperl",
+    "speciesName": "clamperl",
+    "officialArtwork": "366.png"
+  },
+  {
+    "name": "Huntail",
+    "speciesName": "huntail",
+    "officialArtwork": "367.png"
+  },
+  {
+    "name": "Gorebyss",
+    "speciesName": "gorebyss",
+    "officialArtwork": "368.png"
+  },
+  {
+    "name": "Relicanth",
+    "speciesName": "relicanth",
+    "officialArtwork": "369.png"
+  },
+  {
+    "name": "Luvdisc",
+    "speciesName": "luvdisc",
+    "officialArtwork": "370.png"
+  },
+  {
+    "name": "Bagon",
+    "speciesName": "bagon",
+    "officialArtwork": "371.png"
+  },
+  {
+    "name": "Shelgon",
+    "speciesName": "shelgon",
+    "officialArtwork": "372.png"
+  },
+  {
+    "name": "Salamence",
+    "speciesName": "salamence",
+    "officialArtwork": "373.png"
+  },
+  {
+    "name": "Beldum",
+    "speciesName": "beldum",
+    "officialArtwork": "374.png"
+  },
+  {
+    "name": "Metang",
+    "speciesName": "metang",
+    "officialArtwork": "375.png"
+  },
+  {
+    "name": "Metagross",
+    "speciesName": "metagross",
+    "officialArtwork": "376.png"
+  },
+  {
+    "name": "Regirock",
+    "speciesName": "regirock",
+    "officialArtwork": "377.png"
+  },
+  {
+    "name": "Regice",
+    "speciesName": "regice",
+    "officialArtwork": "378.png"
+  },
+  {
+    "name": "Registeel",
+    "speciesName": "registeel",
+    "officialArtwork": "379.png"
+  },
+  {
+    "name": "Latias",
+    "speciesName": "latias",
+    "officialArtwork": "380.png"
+  },
+  {
+    "name": "Latios",
+    "speciesName": "latios",
+    "officialArtwork": "381.png"
+  },
+  {
+    "name": "Kyogre",
+    "speciesName": "kyogre",
+    "officialArtwork": "382.png"
+  },
+  {
+    "name": "Groudon",
+    "speciesName": "groudon",
+    "officialArtwork": "383.png"
+  },
+  {
+    "name": "Rayquaza",
+    "speciesName": "rayquaza",
+    "officialArtwork": "384.png"
+  },
+  {
+    "name": "Jirachi",
+    "speciesName": "jirachi",
+    "officialArtwork": "385.png"
+  },
+  {
+    "name": "Deoxys",
+    "speciesName": "deoxys-normal",
+    "officialArtwork": "386.png"
+  },
+  {
+    "name": "Castform(Sunny Form)",
+    "speciesName": "castform-sunny",
+    "officialArtwork": "10013.png"
+  },
+  {
+    "name": "Castform(Rainy Form)",
+    "speciesName": "castform-rainy",
+    "officialArtwork": "10014.png"
+  },
+  {
+    "name": "Castform(Snowy Form)",
+    "speciesName": "castform-snowy",
+    "officialArtwork": "10015.png"
+  },
+  {
+    "name": "Deoxys(Attack Forme)",
+    "speciesName": "deoxys-attack",
+    "officialArtwork": "10001.png"
+  },
+  {
+    "name": "Deoxys(Defense Forme)",
+    "speciesName": "deoxys-defense",
+    "officialArtwork": "10002.png"
+  },
+  {
+    "name": "Deoxys(Speed Forme)\r",
+    "speciesName": "deoxys-speed",
+    "officialArtwork": "10003.png"
+  },
+  {
+    "name": "Turtwig",
+    "speciesName": "turtwig",
+    "officialArtwork": "387.png"
+  },
+  {
+    "name": "Grotle",
+    "speciesName": "grotle",
+    "officialArtwork": "388.png"
+  },
+  {
+    "name": "Torterra",
+    "speciesName": "torterra",
+    "officialArtwork": "389.png"
+  },
+  {
+    "name": "Chimchar",
+    "speciesName": "chimchar",
+    "officialArtwork": "390.png"
+  },
+  {
+    "name": "Monferno",
+    "speciesName": "monferno",
+    "officialArtwork": "391.png"
+  },
+  {
+    "name": "Infernape",
+    "speciesName": "infernape",
+    "officialArtwork": "392.png"
+  },
+  {
+    "name": "Piplup",
+    "speciesName": "piplup",
+    "officialArtwork": "393.png"
+  },
+  {
+    "name": "Prinplup",
+    "speciesName": "prinplup",
+    "officialArtwork": "394.png"
+  },
+  {
+    "name": "Empoleon",
+    "speciesName": "empoleon",
+    "officialArtwork": "395.png"
+  },
+  {
+    "name": "Starly",
+    "speciesName": "starly",
+    "officialArtwork": "396.png"
+  },
+  {
+    "name": "Staravia",
+    "speciesName": "staravia",
+    "officialArtwork": "397.png"
+  },
+  {
+    "name": "Staraptor",
+    "speciesName": "staraptor",
+    "officialArtwork": "398.png"
+  },
+  {
+    "name": "Bidoof",
+    "speciesName": "bidoof",
+    "officialArtwork": "399.png"
+  },
+  {
+    "name": "Bibarel",
+    "speciesName": "bibarel",
+    "officialArtwork": "400.png"
+  },
+  {
+    "name": "Kricketot",
+    "speciesName": "kricketot",
+    "officialArtwork": "401.png"
+  },
+  {
+    "name": "Kricketune",
+    "speciesName": "kricketune",
+    "officialArtwork": "402.png"
+  },
+  {
+    "name": "Shinx",
+    "speciesName": "shinx",
+    "officialArtwork": "403.png"
+  },
+  {
+    "name": "Luxio",
+    "speciesName": "luxio",
+    "officialArtwork": "404.png"
+  },
+  {
+    "name": "Luxray",
+    "speciesName": "luxray",
+    "officialArtwork": "405.png"
+  },
+  {
+    "name": "Budew",
+    "speciesName": "budew",
+    "officialArtwork": "406.png"
+  },
+  {
+    "name": "Roserade",
+    "speciesName": "roserade",
+    "officialArtwork": "407.png"
+  },
+  {
+    "name": "Cranidos",
+    "speciesName": "cranidos",
+    "officialArtwork": "408.png"
+  },
+  {
+    "name": "Rampardos",
+    "speciesName": "rampardos",
+    "officialArtwork": "409.png"
+  },
+  {
+    "name": "Shieldon",
+    "speciesName": "shieldon",
+    "officialArtwork": "410.png"
+  },
+  {
+    "name": "Bastiodon",
+    "speciesName": "bastiodon",
+    "officialArtwork": "411.png"
+  },
+  {
+    "name": "Burmy",
+    "speciesName": "burmy",
+    "officialArtwork": "412.png"
+  },
+  {
+    "name": "Mothim",
+    "speciesName": "mothim",
+    "officialArtwork": "414.png"
+  },
+  {
+    "name": "Combee",
+    "speciesName": "combee",
+    "officialArtwork": "415.png"
+  },
+  {
+    "name": "Vespiquen",
+    "speciesName": "vespiquen",
+    "officialArtwork": "416.png"
+  },
+  {
+    "name": "Pachirisu",
+    "speciesName": "pachirisu",
+    "officialArtwork": "417.png"
+  },
+  {
+    "name": "Buizel",
+    "speciesName": "buizel",
+    "officialArtwork": "418.png"
+  },
+  {
+    "name": "Floatzel",
+    "speciesName": "floatzel",
+    "officialArtwork": "419.png"
+  },
+  {
+    "name": "Cherubi",
+    "speciesName": "cherubi",
+    "officialArtwork": "420.png"
+  },
+  {
+    "name": "Cherrim",
+    "speciesName": "cherrim",
+    "officialArtwork": "421.png"
+  },
+  {
+    "name": "Shellos",
+    "speciesName": "shellos",
+    "officialArtwork": "422.png"
+  },
+  {
+    "name": "Gastrodon",
+    "speciesName": "gastrodon",
+    "officialArtwork": "423.png"
+  },
+  {
+    "name": "Ambipom",
+    "speciesName": "ambipom",
+    "officialArtwork": "424.png"
+  },
+  {
+    "name": "Drifloon",
+    "speciesName": "drifloon",
+    "officialArtwork": "425.png"
+  },
+  {
+    "name": "Drifblim",
+    "speciesName": "drifblim",
+    "officialArtwork": "426.png"
+  },
+  {
+    "name": "Buneary",
+    "speciesName": "buneary",
+    "officialArtwork": "427.png"
+  },
+  {
+    "name": "Lopunny",
+    "speciesName": "lopunny",
+    "officialArtwork": "428.png"
+  },
+  {
+    "name": "Mismagius",
+    "speciesName": "mismagius",
+    "officialArtwork": "429.png"
+  },
+  {
+    "name": "Honchkrow",
+    "speciesName": "honchkrow",
+    "officialArtwork": "430.png"
+  },
+  {
+    "name": "Glameow",
+    "speciesName": "glameow",
+    "officialArtwork": "431.png"
+  },
+  {
+    "name": "Purugly",
+    "speciesName": "purugly",
+    "officialArtwork": "432.png"
+  },
+  {
+    "name": "Chingling",
+    "speciesName": "chingling",
+    "officialArtwork": "433.png"
+  },
+  {
+    "name": "Stunky",
+    "speciesName": "stunky",
+    "officialArtwork": "434.png"
+  },
+  {
+    "name": "Skuntank",
+    "speciesName": "skuntank",
+    "officialArtwork": "435.png"
+  },
+  {
+    "name": "Bronzor",
+    "speciesName": "bronzor",
+    "officialArtwork": "436.png"
+  },
+  {
+    "name": "Bronzong",
+    "speciesName": "bronzong",
+    "officialArtwork": "437.png"
+  },
+  {
+    "name": "Bonsly",
+    "speciesName": "bonsly",
+    "officialArtwork": "438.png"
+  },
+  {
+    "name": "Mime Jr.",
+    "speciesName": "mime-jr",
+    "officialArtwork": "439.png"
+  },
+  {
+    "name": "Happiny",
+    "speciesName": "happiny",
+    "officialArtwork": "440.png"
+  },
+  {
+    "name": "Chatot",
+    "speciesName": "chatot",
+    "officialArtwork": "441.png"
+  },
+  {
+    "name": "Spiritomb",
+    "speciesName": "spiritomb",
+    "officialArtwork": "442.png"
+  },
+  {
+    "name": "Gible",
+    "speciesName": "gible",
+    "officialArtwork": "443.png"
+  },
+  {
+    "name": "Gabite",
+    "speciesName": "gabite",
+    "officialArtwork": "444.png"
+  },
+  {
+    "name": "Garchomp",
+    "speciesName": "garchomp",
+    "officialArtwork": "445.png"
+  },
+  {
+    "name": "Munchlax",
+    "speciesName": "munchlax",
+    "officialArtwork": "446.png"
+  },
+  {
+    "name": "Riolu",
+    "speciesName": "riolu",
+    "officialArtwork": "447.png"
+  },
+  {
+    "name": "Lucario",
+    "speciesName": "lucario",
+    "officialArtwork": "448.png"
+  },
+  {
+    "name": "Hippopotas",
+    "speciesName": "hippopotas",
+    "officialArtwork": "449.png"
+  },
+  {
+    "name": "Hippowdon",
+    "speciesName": "hippowdon",
+    "officialArtwork": "450.png"
+  },
+  {
+    "name": "Skorupi",
+    "speciesName": "skorupi",
+    "officialArtwork": "451.png"
+  },
+  {
+    "name": "Drapion",
+    "speciesName": "drapion",
+    "officialArtwork": "452.png"
+  },
+  {
+    "name": "Croagunk",
+    "speciesName": "croagunk",
+    "officialArtwork": "453.png"
+  },
+  {
+    "name": "Toxicroak",
+    "speciesName": "toxicroak",
+    "officialArtwork": "454.png"
+  },
+  {
+    "name": "Carnivine",
+    "speciesName": "carnivine",
+    "officialArtwork": "455.png"
+  },
+  {
+    "name": "Finneon",
+    "speciesName": "finneon",
+    "officialArtwork": "456.png"
+  },
+  {
+    "name": "Lumineon",
+    "speciesName": "lumineon",
+    "officialArtwork": "457.png"
+  },
+  {
+    "name": "Mantyke",
+    "speciesName": "mantyke",
+    "officialArtwork": "458.png"
+  },
+  {
+    "name": "Snover",
+    "speciesName": "snover",
+    "officialArtwork": "459.png"
+  },
+  {
+    "name": "Abomasnow",
+    "speciesName": "abomasnow",
+    "officialArtwork": "460.png"
+  },
+  {
+    "name": "Weavile",
+    "speciesName": "weavile",
+    "officialArtwork": "461.png"
+  },
+  {
+    "name": "Magnezone",
+    "speciesName": "magnezone",
+    "officialArtwork": "462.png"
+  },
+  {
+    "name": "Lickilicky",
+    "speciesName": "lickilicky",
+    "officialArtwork": "463.png"
+  },
+  {
+    "name": "Rhyperior",
+    "speciesName": "rhyperior",
+    "officialArtwork": "464.png"
+  },
+  {
+    "name": "Tangrowth",
+    "speciesName": "tangrowth",
+    "officialArtwork": "465.png"
+  },
+  {
+    "name": "Electivire",
+    "speciesName": "electivire",
+    "officialArtwork": "466.png"
+  },
+  {
+    "name": "Magmortar",
+    "speciesName": "magmortar",
+    "officialArtwork": "467.png"
+  },
+  {
+    "name": "Togekiss",
+    "speciesName": "togekiss",
+    "officialArtwork": "468.png"
+  },
+  {
+    "name": "Yanmega",
+    "speciesName": "yanmega",
+    "officialArtwork": "469.png"
+  },
+  {
+    "name": "Leafeon",
+    "speciesName": "leafeon",
+    "officialArtwork": "470.png"
+  },
+  {
+    "name": "Glaceon",
+    "speciesName": "glaceon",
+    "officialArtwork": "471.png"
+  },
+  {
+    "name": "Gliscor",
+    "speciesName": "gliscor",
+    "officialArtwork": "472.png"
+  },
+  {
+    "name": "Mamoswine",
+    "speciesName": "mamoswine",
+    "officialArtwork": "473.png"
+  },
+  {
+    "name": "Porygon-Z",
+    "speciesName": "porygon-z",
+    "officialArtwork": "474.png"
+  },
+  {
+    "name": "Gallade",
+    "speciesName": "gallade",
+    "officialArtwork": "475.png"
+  },
+  {
+    "name": "Probopass",
+    "speciesName": "probopass",
+    "officialArtwork": "476.png"
+  },
+  {
+    "name": "Dusknoir",
+    "speciesName": "dusknoir",
+    "officialArtwork": "477.png"
+  },
+  {
+    "name": "Froslass",
+    "speciesName": "froslass",
+    "officialArtwork": "478.png"
+  },
+  {
+    "name": "Rotom",
+    "speciesName": "rotom",
+    "officialArtwork": "479.png"
+  },
+  {
+    "name": "Uxie",
+    "speciesName": "uxie",
+    "officialArtwork": "480.png"
+  },
+  {
+    "name": "Mesprit",
+    "speciesName": "mesprit",
+    "officialArtwork": "481.png"
+  },
+  {
+    "name": "Azelf",
+    "speciesName": "azelf",
+    "officialArtwork": "482.png"
+  },
+  {
+    "name": "Dialga",
+    "speciesName": "dialga",
+    "officialArtwork": "483.png"
+  },
+  {
+    "name": "Palkia",
+    "speciesName": "palkia",
+    "officialArtwork": "484.png"
+  },
+  {
+    "name": "Heatran",
+    "speciesName": "heatran",
+    "officialArtwork": "485.png"
+  },
+  {
+    "name": "Regigigas",
+    "speciesName": "regigigas",
+    "officialArtwork": "486.png"
+  },
+  {
+    "name": "Giratina",
+    "speciesName": "giratina-altered",
+    "officialArtwork": "487.png"
+  },
+  {
+    "name": "Cresselia",
+    "speciesName": "cresselia",
+    "officialArtwork": "488.png"
+  },
+  {
+    "name": "Phione",
+    "speciesName": "phione",
+    "officialArtwork": "489.png"
+  },
+  {
+    "name": "Manaphy",
+    "speciesName": "manaphy",
+    "officialArtwork": "490.png"
+  },
+  {
+    "name": "Darkrai",
+    "speciesName": "darkrai",
+    "officialArtwork": "491.png"
+  },
+  {
+    "name": "Shaymin",
+    "speciesName": "shaymin-land",
+    "officialArtwork": "492.png"
+  },
+  {
+    "name": "Arceus",
+    "speciesName": "arceus",
+    "officialArtwork": "493.png"
+  },
+  {
+    "name": "Wormadam(Plant Cloak)",
+    "speciesName": "wormadam-plant",
+    "officialArtwork": "413.png"
+  },
+  {
+    "name": "Wormadam(Sandy Cloak)",
+    "speciesName": "wormadam-sandy",
+    "officialArtwork": "10004.png"
+  },
+  {
+    "name": "Wormadam(Trash Cloak)",
+    "speciesName": "wormadam-trash",
+    "officialArtwork": "10005.png"
+  },
+  {
+    "name": "Shaymin(Sky Forme)",
+    "speciesName": "shaymin-sky",
+    "officialArtwork": "10006.png"
+  },
+  {
+    "name": "Heat Rotom",
+    "speciesName": "rotom-heat",
+    "officialArtwork": "10008.png"
+  },
+  {
+    "name": "Wash Rotom",
+    "speciesName": "rotom-wash",
+    "officialArtwork": "10009.png"
+  },
+  {
+    "name": "Frost Rotom",
+    "speciesName": "rotom-frost",
+    "officialArtwork": "10010.png"
+  },
+  {
+    "name": "Fan Rotom",
+    "speciesName": "rotom-fan",
+    "officialArtwork": "10011.png"
+  },
+  {
+    "name": "Mow Rotom",
+    "speciesName": "rotom-mow",
+    "officialArtwork": "10012.png"
+  },
+  {
+    "name": "Giratina(Origin Forme)\r",
+    "speciesName": "giratina-origin",
+    "officialArtwork": "10007.png"
+  },
+  {
+    "name": "Victini",
+    "speciesName": "victini",
+    "officialArtwork": "494.png"
+  },
+  {
+    "name": "Snivy",
+    "speciesName": "snivy",
+    "officialArtwork": "495.png"
+  },
+  {
+    "name": "Servine",
+    "speciesName": "servine",
+    "officialArtwork": "496.png"
+  },
+  {
+    "name": "Serperior",
+    "speciesName": "serperior",
+    "officialArtwork": "497.png"
+  },
+  {
+    "name": "Tepig",
+    "speciesName": "tepig",
+    "officialArtwork": "498.png"
+  },
+  {
+    "name": "Pignite",
+    "speciesName": "pignite",
+    "officialArtwork": "499.png"
+  },
+  {
+    "name": "Emboar",
+    "speciesName": "emboar",
+    "officialArtwork": "500.png"
+  },
+  {
+    "name": "Oshawott",
+    "speciesName": "oshawott",
+    "officialArtwork": "501.png"
+  },
+  {
+    "name": "Dewott",
+    "speciesName": "dewott",
+    "officialArtwork": "502.png"
+  },
+  {
+    "name": "Samurott",
+    "speciesName": "samurott",
+    "officialArtwork": "503.png"
+  },
+  {
+    "name": "Patrat",
+    "speciesName": "patrat",
+    "officialArtwork": "504.png"
+  },
+  {
+    "name": "Watchog",
+    "speciesName": "watchog",
+    "officialArtwork": "505.png"
+  },
+  {
+    "name": "Lillipup",
+    "speciesName": "lillipup",
+    "officialArtwork": "506.png"
+  },
+  {
+    "name": "Herdier",
+    "speciesName": "herdier",
+    "officialArtwork": "507.png"
+  },
+  {
+    "name": "Stoutland",
+    "speciesName": "stoutland",
+    "officialArtwork": "508.png"
+  },
+  {
+    "name": "Purrloin",
+    "speciesName": "purrloin",
+    "officialArtwork": "509.png"
+  },
+  {
+    "name": "Liepard",
+    "speciesName": "liepard",
+    "officialArtwork": "510.png"
+  },
+  {
+    "name": "Pansage",
+    "speciesName": "pansage",
+    "officialArtwork": "511.png"
+  },
+  {
+    "name": "Simisage",
+    "speciesName": "simisage",
+    "officialArtwork": "512.png"
+  },
+  {
+    "name": "Pansear",
+    "speciesName": "pansear",
+    "officialArtwork": "513.png"
+  },
+  {
+    "name": "Simisear",
+    "speciesName": "simisear",
+    "officialArtwork": "514.png"
+  },
+  {
+    "name": "Panpour",
+    "speciesName": "panpour",
+    "officialArtwork": "515.png"
+  },
+  {
+    "name": "Simipour",
+    "speciesName": "simipour",
+    "officialArtwork": "516.png"
+  },
+  {
+    "name": "Munna",
+    "speciesName": "munna",
+    "officialArtwork": "517.png"
+  },
+  {
+    "name": "Musharna",
+    "speciesName": "musharna",
+    "officialArtwork": "518.png"
+  },
+  {
+    "name": "Pidove",
+    "speciesName": "pidove",
+    "officialArtwork": "519.png"
+  },
+  {
+    "name": "Tranquill",
+    "speciesName": "tranquill",
+    "officialArtwork": "520.png"
+  },
+  {
+    "name": "Unfezant",
+    "speciesName": "unfezant",
+    "officialArtwork": "521.png"
+  },
+  {
+    "name": "Blitzle",
+    "speciesName": "blitzle",
+    "officialArtwork": "522.png"
+  },
+  {
+    "name": "Zebstrika",
+    "speciesName": "zebstrika",
+    "officialArtwork": "523.png"
+  },
+  {
+    "name": "Roggenrola",
+    "speciesName": "roggenrola",
+    "officialArtwork": "524.png"
+  },
+  {
+    "name": "Boldore",
+    "speciesName": "boldore",
+    "officialArtwork": "525.png"
+  },
+  {
+    "name": "Gigalith",
+    "speciesName": "gigalith",
+    "officialArtwork": "526.png"
+  },
+  {
+    "name": "Woobat",
+    "speciesName": "woobat",
+    "officialArtwork": "527.png"
+  },
+  {
+    "name": "Swoobat",
+    "speciesName": "swoobat",
+    "officialArtwork": "528.png"
+  },
+  {
+    "name": "Drilbur",
+    "speciesName": "drilbur",
+    "officialArtwork": "529.png"
+  },
+  {
+    "name": "Excadrill",
+    "speciesName": "excadrill",
+    "officialArtwork": "530.png"
+  },
+  {
+    "name": "Audino",
+    "speciesName": "audino",
+    "officialArtwork": "531.png"
+  },
+  {
+    "name": "Timburr",
+    "speciesName": "timburr",
+    "officialArtwork": "532.png"
+  },
+  {
+    "name": "Gurdurr",
+    "speciesName": "gurdurr",
+    "officialArtwork": "533.png"
+  },
+  {
+    "name": "Conkeldurr",
+    "speciesName": "conkeldurr",
+    "officialArtwork": "534.png"
+  },
+  {
+    "name": "Tympole",
+    "speciesName": "tympole",
+    "officialArtwork": "535.png"
+  },
+  {
+    "name": "Palpitoad",
+    "speciesName": "palpitoad",
+    "officialArtwork": "536.png"
+  },
+  {
+    "name": "Seismitoad",
+    "speciesName": "seismitoad",
+    "officialArtwork": "537.png"
+  },
+  {
+    "name": "Throh",
+    "speciesName": "throh",
+    "officialArtwork": "538.png"
+  },
+  {
+    "name": "Sawk",
+    "speciesName": "sawk",
+    "officialArtwork": "539.png"
+  },
+  {
+    "name": "Sewaddle",
+    "speciesName": "sewaddle",
+    "officialArtwork": "540.png"
+  },
+  {
+    "name": "Swadloon",
+    "speciesName": "swadloon",
+    "officialArtwork": "541.png"
+  },
+  {
+    "name": "Leavanny",
+    "speciesName": "leavanny",
+    "officialArtwork": "542.png"
+  },
+  {
+    "name": "Venipede",
+    "speciesName": "venipede",
+    "officialArtwork": "543.png"
+  },
+  {
+    "name": "Whirlipede",
+    "speciesName": "whirlipede",
+    "officialArtwork": "544.png"
+  },
+  {
+    "name": "Scolipede",
+    "speciesName": "scolipede",
+    "officialArtwork": "545.png"
+  },
+  {
+    "name": "Cottonee",
+    "speciesName": "cottonee",
+    "officialArtwork": "546.png"
+  },
+  {
+    "name": "Whimsicott",
+    "speciesName": "whimsicott",
+    "officialArtwork": "547.png"
+  },
+  {
+    "name": "Petilil",
+    "speciesName": "petilil",
+    "officialArtwork": "548.png"
+  },
+  {
+    "name": "Lilligant",
+    "speciesName": "lilligant",
+    "officialArtwork": "549.png"
+  },
+  {
+    "name": "Basculin",
+    "speciesName": "basculin-red-striped",
+    "officialArtwork": "550.png"
+  },
+  {
+    "name": "Sandile",
+    "speciesName": "sandile",
+    "officialArtwork": "551.png"
+  },
+  {
+    "name": "Krokorok",
+    "speciesName": "krokorok",
+    "officialArtwork": "552.png"
+  },
+  {
+    "name": "Krookodile",
+    "speciesName": "krookodile",
+    "officialArtwork": "553.png"
+  },
+  {
+    "name": "Darumaka",
+    "speciesName": "darumaka",
+    "officialArtwork": "554.png"
+  },
+  {
+    "name": "Darmanitan",
+    "speciesName": "darmanitan-standard",
+    "officialArtwork": "555.png"
+  },
+  {
+    "name": "Maractus",
+    "speciesName": "maractus",
+    "officialArtwork": "556.png"
+  },
+  {
+    "name": "Dwebble",
+    "speciesName": "dwebble",
+    "officialArtwork": "557.png"
+  },
+  {
+    "name": "Crustle",
+    "speciesName": "crustle",
+    "officialArtwork": "558.png"
+  },
+  {
+    "name": "Scraggy",
+    "speciesName": "scraggy",
+    "officialArtwork": "559.png"
+  },
+  {
+    "name": "Scrafty",
+    "speciesName": "scrafty",
+    "officialArtwork": "560.png"
+  },
+  {
+    "name": "Sigilyph",
+    "speciesName": "sigilyph",
+    "officialArtwork": "561.png"
+  },
+  {
+    "name": "Yamask",
+    "speciesName": "yamask",
+    "officialArtwork": "562.png"
+  },
+  {
+    "name": "Cofagrigus",
+    "speciesName": "cofagrigus",
+    "officialArtwork": "563.png"
+  },
+  {
+    "name": "Tirtouga",
+    "speciesName": "tirtouga",
+    "officialArtwork": "564.png"
+  },
+  {
+    "name": "Carracosta",
+    "speciesName": "carracosta",
+    "officialArtwork": "565.png"
+  },
+  {
+    "name": "Archen",
+    "speciesName": "archen",
+    "officialArtwork": "566.png"
+  },
+  {
+    "name": "Archeops",
+    "speciesName": "archeops",
+    "officialArtwork": "567.png"
+  },
+  {
+    "name": "Trubbish",
+    "speciesName": "trubbish",
+    "officialArtwork": "568.png"
+  },
+  {
+    "name": "Garbodor",
+    "speciesName": "garbodor",
+    "officialArtwork": "569.png"
+  },
+  {
+    "name": "Zorua",
+    "speciesName": "zorua",
+    "officialArtwork": "570.png"
+  },
+  {
+    "name": "Zoroark",
+    "speciesName": "zoroark",
+    "officialArtwork": "571.png"
+  },
+  {
+    "name": "Minccino",
+    "speciesName": "minccino",
+    "officialArtwork": "572.png"
+  },
+  {
+    "name": "Cinccino",
+    "speciesName": "cinccino",
+    "officialArtwork": "573.png"
+  },
+  {
+    "name": "Gothita",
+    "speciesName": "gothita",
+    "officialArtwork": "574.png"
+  },
+  {
+    "name": "Gothorita",
+    "speciesName": "gothorita",
+    "officialArtwork": "575.png"
+  },
+  {
+    "name": "Gothitelle",
+    "speciesName": "gothitelle",
+    "officialArtwork": "576.png"
+  },
+  {
+    "name": "Solosis",
+    "speciesName": "solosis",
+    "officialArtwork": "577.png"
+  },
+  {
+    "name": "Duosion",
+    "speciesName": "duosion",
+    "officialArtwork": "578.png"
+  },
+  {
+    "name": "Reuniclus",
+    "speciesName": "reuniclus",
+    "officialArtwork": "579.png"
+  },
+  {
+    "name": "Ducklett",
+    "speciesName": "ducklett",
+    "officialArtwork": "580.png"
+  },
+  {
+    "name": "Swanna",
+    "speciesName": "swanna",
+    "officialArtwork": "581.png"
+  },
+  {
+    "name": "Vanillite",
+    "speciesName": "vanillite",
+    "officialArtwork": "582.png"
+  },
+  {
+    "name": "Vanillish",
+    "speciesName": "vanillish",
+    "officialArtwork": "583.png"
+  },
+  {
+    "name": "Vanilluxe",
+    "speciesName": "vanilluxe",
+    "officialArtwork": "584.png"
+  },
+  {
+    "name": "Deerling",
+    "speciesName": "deerling",
+    "officialArtwork": "585.png"
+  },
+  {
+    "name": "Sawsbuck",
+    "speciesName": "sawsbuck",
+    "officialArtwork": "586.png"
+  },
+  {
+    "name": "Emolga",
+    "speciesName": "emolga",
+    "officialArtwork": "587.png"
+  },
+  {
+    "name": "Karrablast",
+    "speciesName": "karrablast",
+    "officialArtwork": "588.png"
+  },
+  {
+    "name": "Escavalier",
+    "speciesName": "escavalier",
+    "officialArtwork": "589.png"
+  },
+  {
+    "name": "Foongus",
+    "speciesName": "foongus",
+    "officialArtwork": "590.png"
+  },
+  {
+    "name": "Amoonguss",
+    "speciesName": "amoonguss",
+    "officialArtwork": "591.png"
+  },
+  {
+    "name": "Frillish",
+    "speciesName": "frillish",
+    "officialArtwork": "592.png"
+  },
+  {
+    "name": "Jellicent",
+    "speciesName": "jellicent",
+    "officialArtwork": "593.png"
+  },
+  {
+    "name": "Alomomola",
+    "speciesName": "alomomola",
+    "officialArtwork": "594.png"
+  },
+  {
+    "name": "Joltik",
+    "speciesName": "joltik",
+    "officialArtwork": "595.png"
+  },
+  {
+    "name": "Galvantula",
+    "speciesName": "galvantula",
+    "officialArtwork": "596.png"
+  },
+  {
+    "name": "Ferroseed",
+    "speciesName": "ferroseed",
+    "officialArtwork": "597.png"
+  },
+  {
+    "name": "Ferrothorn",
+    "speciesName": "ferrothorn",
+    "officialArtwork": "598.png"
+  },
+  {
+    "name": "Klink",
+    "speciesName": "klink",
+    "officialArtwork": "599.png"
+  },
+  {
+    "name": "Klang",
+    "speciesName": "klang",
+    "officialArtwork": "600.png"
+  },
+  {
+    "name": "Klinklang",
+    "speciesName": "klinklang",
+    "officialArtwork": "601.png"
+  },
+  {
+    "name": "Tynamo",
+    "speciesName": "tynamo",
+    "officialArtwork": "602.png"
+  },
+  {
+    "name": "Eelektrik",
+    "speciesName": "eelektrik",
+    "officialArtwork": "603.png"
+  },
+  {
+    "name": "Eelektross",
+    "speciesName": "eelektross",
+    "officialArtwork": "604.png"
+  },
+  {
+    "name": "Elgyem",
+    "speciesName": "elgyem",
+    "officialArtwork": "605.png"
+  },
+  {
+    "name": "Beheeyem",
+    "speciesName": "beheeyem",
+    "officialArtwork": "606.png"
+  },
+  {
+    "name": "Litwick",
+    "speciesName": "litwick",
+    "officialArtwork": "607.png"
+  },
+  {
+    "name": "Lampent",
+    "speciesName": "lampent",
+    "officialArtwork": "608.png"
+  },
+  {
+    "name": "Chandelure",
+    "speciesName": "chandelure",
+    "officialArtwork": "609.png"
+  },
+  {
+    "name": "Axew",
+    "speciesName": "axew",
+    "officialArtwork": "610.png"
+  },
+  {
+    "name": "Fraxure",
+    "speciesName": "fraxure",
+    "officialArtwork": "611.png"
+  },
+  {
+    "name": "Haxorus",
+    "speciesName": "haxorus",
+    "officialArtwork": "612.png"
+  },
+  {
+    "name": "Cubchoo",
+    "speciesName": "cubchoo",
+    "officialArtwork": "613.png"
+  },
+  {
+    "name": "Beartic",
+    "speciesName": "beartic",
+    "officialArtwork": "614.png"
+  },
+  {
+    "name": "Cryogonal",
+    "speciesName": "cryogonal",
+    "officialArtwork": "615.png"
+  },
+  {
+    "name": "Shelmet",
+    "speciesName": "shelmet",
+    "officialArtwork": "616.png"
+  },
+  {
+    "name": "Accelgor",
+    "speciesName": "accelgor",
+    "officialArtwork": "617.png"
+  },
+  {
+    "name": "Stunfisk",
+    "speciesName": "stunfisk",
+    "officialArtwork": "618.png"
+  },
+  {
+    "name": "Mienfoo",
+    "speciesName": "mienfoo",
+    "officialArtwork": "619.png"
+  },
+  {
+    "name": "Mienshao",
+    "speciesName": "mienshao",
+    "officialArtwork": "620.png"
+  },
+  {
+    "name": "Druddigon",
+    "speciesName": "druddigon",
+    "officialArtwork": "621.png"
+  },
+  {
+    "name": "Golett",
+    "speciesName": "golett",
+    "officialArtwork": "622.png"
+  },
+  {
+    "name": "Golurk",
+    "speciesName": "golurk",
+    "officialArtwork": "623.png"
+  },
+  {
+    "name": "Pawniard",
+    "speciesName": "pawniard",
+    "officialArtwork": "624.png"
+  },
+  {
+    "name": "Bisharp",
+    "speciesName": "bisharp",
+    "officialArtwork": "625.png"
+  },
+  {
+    "name": "Bouffalant",
+    "speciesName": "bouffalant",
+    "officialArtwork": "626.png"
+  },
+  {
+    "name": "Rufflet",
+    "speciesName": "rufflet",
+    "officialArtwork": "627.png"
+  },
+  {
+    "name": "Braviary",
+    "speciesName": "braviary",
+    "officialArtwork": "628.png"
+  },
+  {
+    "name": "Vullaby",
+    "speciesName": "vullaby",
+    "officialArtwork": "629.png"
+  },
+  {
+    "name": "Mandibuzz",
+    "speciesName": "mandibuzz",
+    "officialArtwork": "630.png"
+  },
+  {
+    "name": "Heatmor",
+    "speciesName": "heatmor",
+    "officialArtwork": "631.png"
+  },
+  {
+    "name": "Durant",
+    "speciesName": "durant",
+    "officialArtwork": "632.png"
+  },
+  {
+    "name": "Deino",
+    "speciesName": "deino",
+    "officialArtwork": "633.png"
+  },
+  {
+    "name": "Zweilous",
+    "speciesName": "zweilous",
+    "officialArtwork": "634.png"
+  },
+  {
+    "name": "Hydreigon",
+    "speciesName": "hydreigon",
+    "officialArtwork": "635.png"
+  },
+  {
+    "name": "Larvesta",
+    "speciesName": "larvesta",
+    "officialArtwork": "636.png"
+  },
+  {
+    "name": "Volcarona",
+    "speciesName": "volcarona",
+    "officialArtwork": "637.png"
+  },
+  {
+    "name": "Cobalion",
+    "speciesName": "cobalion",
+    "officialArtwork": "638.png"
+  },
+  {
+    "name": "Terrakion",
+    "speciesName": "terrakion",
+    "officialArtwork": "639.png"
+  },
+  {
+    "name": "Virizion",
+    "speciesName": "virizion",
+    "officialArtwork": "640.png"
+  },
+  {
+    "name": "Tornadus",
+    "speciesName": "tornadus-incarnate",
+    "officialArtwork": "641.png"
+  },
+  {
+    "name": "Thundurus",
+    "speciesName": "thundurus-incarnate",
+    "officialArtwork": "642.png"
+  },
+  {
+    "name": "Reshiram",
+    "speciesName": "reshiram",
+    "officialArtwork": "643.png"
+  },
+  {
+    "name": "Zekrom",
+    "speciesName": "zekrom",
+    "officialArtwork": "644.png"
+  },
+  {
+    "name": "Landorus",
+    "speciesName": "landorus-incarnate",
+    "officialArtwork": "645.png"
+  },
+  {
+    "name": "Kyurem",
+    "speciesName": "kyurem",
+    "officialArtwork": "646.png"
+  },
+  {
+    "name": "Keldeo",
+    "speciesName": "keldeo-ordinary",
+    "officialArtwork": "647.png"
+  },
+  {
+    "name": "Meloetta",
+    "speciesName": "meloetta-aria",
+    "officialArtwork": "648.png"
+  },
+  {
+    "name": "Genesect",
+    "speciesName": "genesect",
+    "officialArtwork": "649.png"
+  },
+  {
+    "name": "Darmanitan(Zen Mode)",
+    "speciesName": "darmanitan-zen",
+    "officialArtwork": "10017.png"
+  },
+  {
+    "name": "Meloetta(Pirouette Forme)",
+    "speciesName": "meloetta-pirouette",
+    "officialArtwork": "10018.png"
+  },
+  {
+    "name": "Tornadus(Therian Forme)",
+    "speciesName": "tornadus-therian",
+    "officialArtwork": "10019.png"
+  },
+  {
+    "name": "Thundurus(Therian Forme)",
+    "speciesName": "thundurus-therian",
+    "officialArtwork": "10020.png"
+  },
+  {
+    "name": "Landorus(Therian Forme)",
+    "speciesName": "landorus-therian",
+    "officialArtwork": "10021.png"
+  },
+  {
+    "name": "White Kyurem",
+    "speciesName": "kyurem-black",
+    "officialArtwork": "10022.png"
+  },
+  {
+    "name": "Black Kyurem\r",
+    "speciesName": "kyurem-white",
+    "officialArtwork": "10023.png"
+  }
+]

@@ -12,7 +12,7 @@
   <main class="container">
     <div class="search-container">
       <input id="search-bar" type="text" class="search-input" placeholder="Search..."
-        oninput="showSuggestions(this.value)" autocomplete="off" />
+          oninput="showSuggestions(this.value)" autocomplete="off" onblur="clearSuggestionsBoxOnBlur()" onfocus="showSuggestions(this.value)"  spellcheck="false">
       <div class="suggestions" id="suggestions-box"></div>
     </div>
 

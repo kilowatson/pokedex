@@ -8,8 +8,8 @@
   line-height: 24px;
   font-weight: 400;
 
-  color: #0f0f0f;
-  background-color: #f6f6f6;
+  color: #FFFFFF;
+  background-color: #2f2f2f;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -89,9 +89,6 @@ button {
   outline: none;
 }
 
-#greet-input {
-  margin-right: 5px;
-}
 
 @media (prefers-color-scheme: dark) {
   :root {
@@ -114,10 +111,11 @@ button {
   }
 }
 
-td{
-    border: 1px solid #ddd;
-    padding: 8px;
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
 }
+
 /* Style for the search bar container */
 .search-container {
   position: relative;
@@ -132,6 +130,7 @@ td{
   font-size: 16px;
   border: 1px solid #ccc;
   border-radius: 4px;
+  text-decoration: none;
 }
 
 /* Style for suggestions box */
@@ -140,9 +139,11 @@ td{
   top: 100%;
   left: 0;
   right: 0;
+  width: 321px;
   border: 1px solid #ccc;
+  display: none;
+  max-height: 170px;
   border-top: none;
-  max-height: 150px;
   /* Limit the height of the suggestions */
   overflow-y: auto;
   /* Add a vertical scrollbar if content overflows */
@@ -159,9 +160,9 @@ td{
   background-color: #2f2f2f;
 }
 
-.suggestion-item:hover {
-  background: #5d5c5c;
-}
+/* .suggestion-item:hover { */
+/*   background: #5d5c5c; */
+/* } */
 
 .suggestion-item img {
   width: 40px;
@@ -172,6 +173,10 @@ td{
 
 .suggestion-item span {
   font-size: 14px;
+}
+
+.suggestion-item.highlighted {
+  background: #5d5c5c;
 }
 
 .part-container {
@@ -205,7 +210,6 @@ td{
 
 .number {
   width: 25px;
-  /* Set the desired size of the circle */
   height: 25px;
   background-color: white;
   border-radius: 50%;
@@ -214,7 +218,6 @@ td{
   justify-content: center;
   text-align: center;
   font-size: 14px;
-  /* Adjust font size as needed */
   color: black;
   font-weight: bold;
 }
@@ -303,12 +306,7 @@ td{
   background-color: #aaaabb;
 }
 
-.suggestion-item {
-  padding: 10px;
-  cursor: pointer;
+.fairy {
+  background-color: #ee99ee;
 }
 
-.suggestion-item.highlighted {
-  background-color: #007bff;
-  color: white;
-}

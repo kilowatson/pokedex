@@ -1,12 +1,5 @@
 const { invoke } = window.__TAURI__.core;
 
-let greetInputEl;
-let greetMsgEl;
-
-async function greet() {
-  // Learn more about Tauri commands at https://tauri.app/develop/calling-rust/
-  greetMsgEl.textContent = await invoke("greet", { name: greetInputEl.value });
-}
 
 async function loadJsonFile() {
   try {
@@ -18,7 +11,9 @@ async function loadJsonFile() {
   }
 }
 
+
 let suggestionsData = [];
+
 window.addEventListener("DOMContentLoaded", () => {
 
   loadJsonFile().then(data=>{
@@ -30,25 +25,27 @@ window.addEventListener("DOMContentLoaded", () => {
       }
     });
 
+
   })
 });
 
 
+
 function showSuggestions(query) {
       const suggestionsBox = document.getElementById("suggestions-box");
-      suggestionsBox.innerHTML = ""; // Clear previous suggestions
 
+      clearSuggestionsBox();
       if (query.trim() === "") {
-        return; // Do nothing if the query is empty
-      }
+        return;       }
 
       // Filter suggestions based on the query
       const filteredSuggestions = suggestionsData.filter((item) =>
         item.name.toLowerCase().includes(query.toLowerCase())
       );
 
+
       // Create suggestion elements
-      filteredSuggestions.forEach((item) => {
+      filteredSuggestions.forEach((item, index) => {
         const suggestionItem = document.createElement("div");
         suggestionItem.className = "suggestion-item";
 
@@ -66,21 +63,88 @@ function showSuggestions(query) {
         // Add click event to populate input with selected suggestion
         suggestionItem.addEventListener("click", () => {
           document.querySelector(".search-input").value = item.name;
-          suggestionsBox.innerHTML = ""; // Clear suggestions
           
-      console.log(item.speciesName)
+          const suggestionItems = document.querySelectorAll(".suggestion-item");
+          suggestionItems[currentIndex].classList.toggle("highlighted");
+          currentIndex = -1;
+          clearSuggestionsBox();
           getPokemonData(item.speciesName);
 
       //Make query request for move table and use types to create a weakness table
         //Make move table
         });
+suggestionItem.addEventListener("mouseover", () => {
+      
+    const suggestionItems = document.querySelectorAll(".suggestion-item");
+      if(currentIndex != -1){
 
+      suggestionItems[currentIndex].classList.toggle("highlighted");
+      }
+      currentIndex = index;
+      suggestionItems[currentIndex].classList.toggle("highlighted");
+
+
+        });
         suggestionsBox.appendChild(suggestionItem);
       });
+  if(suggestionsBox.hasChildNodes()){
+
+          suggestionsBox.style.display = "block";
+  }
+
+
+
     }
+
+  function updateHighlight(suggestionItems) {
+    // Remove previous highlight
+    suggestionItems.forEach((item, index) => {
+      item.classList.toggle("highlighted", index === currentIndex);
+    });
+
+    // Scroll the highlighted item into view
+    if (currentIndex >= 0) {
+      suggestionItems[currentIndex].scrollIntoView({
+        block: "nearest",
+      });
+    }
+  }
+
+    let currentIndex = -1; // Track the currently highlighted suggestion
+   // Add keyboard navigation
+  document.querySelector(".search-input").addEventListener("keydown", (event) => {
+    const suggestionItems = document.querySelectorAll(".suggestion-item");
+    if (event.key === "ArrowDown") {
+      event.preventDefault();
+      currentIndex = (currentIndex + 1) % suggestionItems.length; // Move down
+      updateHighlight(suggestionItems);
+    } else if (event.key === "ArrowUp") {
+      event.preventDefault();
+      currentIndex = (currentIndex - 1 + suggestionItems.length) % suggestionItems.length; // Move up
+      updateHighlight(suggestionItems);
+    } else if (event.key === "Enter") {
+      event.preventDefault();
+      if (currentIndex >= 0) {
+        suggestionItems[currentIndex].click(); // Select the highlighted item
+      }
+    }
+  });
+
+function clearSuggestionsBoxOnBlur(){
+      const suggestionsBox = document.getElementById("suggestions-box");
+      if(suggestionsBox.matches(':hover')){
+    return;
+  }
+       suggestionsBox.style.display = "none";
+          suggestionsBox.innerHTML = ""; 
+}
+function clearSuggestionsBox(){
+      const suggestionsBox = document.getElementById("suggestions-box");
+          suggestionsBox.innerHTML = ""; 
+          suggestionsBox.style.display = "none";
+}
 async function getPokemonData(name){
 
-  //let {pokemonMoveData, pokemonType} = await invoke("get_pokemon_data", { name: name});
   let data = await invoke("get_pokemon_data", { name: name});
 let pokemonMoveData = data[0]
 let chart = data[2]
